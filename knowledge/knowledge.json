@@ -1,2138 +1,739 @@
 [
   {
-    "question": "zea crm section 1",
-    "answer": "ZEA CRM"
-  },
-  {
-    "question": "zea crm section 2",
-    "answer": "Smart Home Automation Engine"
-  },
-  {
-    "question": "zea crm section 3",
-    "answer": "────────────────────────────────"
-  },
-  {
-    "question": "zea crm section 4",
-    "answer": "MASTER KNOWLEDGE BASE"
-  },
-  {
-    "question": "zea crm section 5",
-    "answer": "Sales Team  |  AI Agent Training  |  Internal Onboarding"
-  },
-  {
-    "question": "zea crm section 6",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 7",
-    "answer": "1. Company Overview"
-  },
-  {
-    "question": "zea crm section 8",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 9",
+    "question": "zea crm is an ai-powered workflow automation platform purpose-built for the home",
+    "keywords": [
+      "ZEA",
+      "CRM",
+      "is",
+      "an",
+      "AI-powered"
+    ],
     "answer": "ZEA CRM is an AI-powered workflow automation platform purpose-built for the home automation and AV integration industry. The company started as a specialist database and list-building provider before evolving into a full-service CRM and intelligent automation technology company."
   },
   {
-    "question": "zea crm section 10",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 11",
-    "answer": "Attribute"
-  },
-  {
-    "question": "zea crm section 12",
-    "answer": "Details"
-  },
-  {
-    "question": "zea crm section 13",
-    "answer": "Full Product Name"
-  },
-  {
-    "question": "zea crm section 14",
-    "answer": "ZEA CRM — Smart Home Automation Engine"
-  },
-  {
-    "question": "zea crm section 15",
-    "answer": "Founded"
-  },
-  {
-    "question": "zea crm section 16",
-    "answer": "10+ years of experience; CRM product launched 2023–2024"
-  },
-  {
-    "question": "zea crm section 17",
-    "answer": "Headquarters"
-  },
-  {
-    "question": "zea crm section 18",
-    "answer": "Salem, Tamil Nadu, South India"
-  },
-  {
-    "question": "zea crm section 19",
-    "answer": "Sales Office"
-  },
-  {
-    "question": "zea crm section 20",
-    "answer": "Florida, USA (East Coast)"
-  },
-  {
-    "question": "zea crm section 21",
-    "answer": "Expansion"
-  },
-  {
-    "question": "zea crm section 22",
-    "answer": "UAE office planned"
-  },
-  {
-    "question": "zea crm section 23",
-    "answer": "AI Model"
-  },
-  {
-    "question": "zea crm section 24",
-    "answer": "ChatGPT-4 (OpenAI) — approved for all markets including UAE"
-  },
-  {
-    "question": "zea crm section 25",
-    "answer": "Voice AI"
-  },
-  {
-    "question": "zea crm section 26",
-    "answer": "11 Labs — voice cloning & AI call handling"
-  },
-  {
-    "question": "zea crm section 27",
-    "answer": "Telephony"
-  },
-  {
-    "question": "zea crm section 28",
-    "answer": "Twilio — AI inbound and outbound calls"
-  },
-  {
-    "question": "zea crm section 29",
-    "answer": "Workflow Engine"
-  },
-  {
-    "question": "zea crm section 30",
-    "answer": "Native builder + self-hosted n8n (no extra cost to client)"
-  },
-  {
-    "question": "zea crm section 31",
-    "answer": "Target Industry"
-  },
-  {
-    "question": "zea crm section 32",
-    "answer": "Smart Home Automation, AV Integration, Home Security, HVAC"
-  },
-  {
-    "question": "zea crm section 33",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 34",
-    "answer": "IMPORTANT"
-  },
-  {
-    "question": "zea crm section 35",
+    "question": "zea crm uses chatgpt-4 exclusively. grok is not used in any deployment — it is e",
+    "keywords": [
+      "ZEA",
+      "CRM",
+      "uses",
+      "ChatGPT-4",
+      "exclusively."
+    ],
     "answer": "ZEA CRM uses ChatGPT-4 exclusively. Grok is NOT used in any deployment — it is explicitly excluded due to cultural and compliance sensitivity concerns, especially in UAE and Middle East markets."
   },
   {
-    "question": "zea crm section 36",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 37",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 38",
-    "answer": "2. What Is ZEA CRM?"
-  },
-  {
-    "question": "zea crm section 39",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 40",
+    "question": "zea crm is an all-in-one platform combining a traditional crm with ai-powered wo",
+    "keywords": [
+      "ZEA",
+      "CRM",
+      "is",
+      "an",
+      "all-in-one"
+    ],
     "answer": "ZEA CRM is an all-in-one platform combining a traditional CRM with AI-powered workflow automation. It replaces the need for multiple disconnected tools — MailChimp, Constant Contact, Zapier, separate scheduling apps, and call centres — by consolidating everything into a single intelligent platform."
   },
   {
-    "question": "zea crm section 41",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 42",
-    "answer": "Core Value Proposition"
-  },
-  {
-    "question": "zea crm section 43",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 44",
-    "answer": "ZEA CRM's #1 job is to ensure no lead is ever lost or forgotten. It achieves this through:"
-  },
-  {
-    "question": "zea crm section 45",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 46",
-    "answer": "Immediate AI response to every new inquiry — within 5 minutes, 24/7"
-  },
-  {
-    "question": "zea crm section 47",
-    "answer": "Multi-channel automated follow-up: email, SMS, WhatsApp, voice call, social DM"
-  },
-  {
-    "question": "zea crm section 48",
-    "answer": "Intelligent nurturing through the entire sales lifecycle — from first touch to post-job review"
-  },
-  {
-    "question": "zea crm section 49",
-    "answer": "Automated appointment scheduling synced to live calendar availability"
-  },
-  {
-    "question": "zea crm section 50",
-    "answer": "Inbound voice AI: answers calls when staff are unavailable — zero missed leads"
-  },
-  {
-    "question": "zea crm section 51",
-    "answer": "Outbound voice AI: proactively calls leads to schedule appointments"
-  },
-  {
-    "question": "zea crm section 52",
-    "answer": "After-hours and weekend AI coverage — eliminates the need for a call centre"
-  },
-  {
-    "question": "zea crm section 53",
-    "answer": "Machine learning from conversation history to personalise every message"
-  },
-  {
-    "question": "zea crm section 54",
-    "answer": "Works standalone OR integrates with any existing CRM"
-  },
-  {
-    "question": "zea crm section 55",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 56",
-    "answer": "KEY DIFFERENTIATOR"
-  },
-  {
-    "question": "zea crm section 57",
+    "question": "unlike generic crms, zea is pre-built and pre-configured specifically for home a",
+    "keywords": [
+      "Unlike",
+      "generic",
+      "CRMs,",
+      "ZEA",
+      "is"
+    ],
     "answer": "Unlike generic CRMs, ZEA is pre-built and pre-configured specifically for home automation and AV integration businesses. The workflows were designed with actual industry practitioners — not generic templates."
   },
   {
-    "question": "zea crm section 58",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 59",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 60",
-    "answer": "3. Platform Features"
-  },
-  {
-    "question": "zea crm section 61",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 62",
-    "answer": "3.1  Contact & Lead Management"
-  },
-  {
-    "question": "zea crm section 63",
-    "answer": "Unified contact record — all emails, SMS, WhatsApp, and calls stored in one place"
-  },
-  {
-    "question": "zea crm section 64",
+    "question": "ai data enrichment — if lead submits only name + email, ai appends phone, linked",
+    "keywords": [
+      "AI",
+      "data",
+      "enrichment",
+      "—",
+      "if"
+    ],
     "answer": "AI data enrichment — if lead submits only name + email, AI appends phone, LinkedIn profile, and social handles automatically"
   },
   {
-    "question": "zea crm section 65",
+    "question": "lead source tagging — contacts tagged by source: google ads, facebook, instagram",
+    "keywords": [
+      "Lead",
+      "source",
+      "tagging",
+      "—",
+      "contacts"
+    ],
     "answer": "Lead source tagging — contacts tagged by source: Google Ads, Facebook, Instagram, website form, missed call, LinkedIn, referral, WhatsApp group"
   },
   {
-    "question": "zea crm section 66",
+    "question": "round-robin lead assignment — distribute leads by territory, revenue bracket, or",
+    "keywords": [
+      "Round-robin",
+      "lead",
+      "assignment",
+      "—",
+      "distribute"
+    ],
     "answer": "Round-robin lead assignment — distribute leads by territory, revenue bracket, or quota (50–60 leads/person/month max before overflow)"
   },
   {
-    "question": "zea crm section 67",
+    "question": "contact id tracking — ai references each lead's contact id and full appointment ",
+    "keywords": [
+      "Contact",
+      "ID",
+      "tracking",
+      "—",
+      "AI"
+    ],
     "answer": "Contact ID tracking — AI references each lead's contact ID and full appointment history for rescheduling and sending reminders"
   },
   {
-    "question": "zea crm section 68",
-    "answer": "Manual override — any AI function can be switched OFF at any stage"
-  },
-  {
-    "question": "zea crm section 69",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 70",
-    "answer": "3.2  Multi-Channel Communication"
-  },
-  {
-    "question": "zea crm section 71",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 72",
-    "answer": "Channel"
-  },
-  {
-    "question": "zea crm section 73",
-    "answer": "Capability"
-  },
-  {
-    "question": "zea crm section 74",
-    "answer": "Email (Gmail / Outlook)"
-  },
-  {
-    "question": "zea crm section 75",
+    "question": "bidirectional sync — send from crm or outlook, all messages captured in both. dr",
+    "keywords": [
+      "Bidirectional",
+      "sync",
+      "—",
+      "send",
+      "from"
+    ],
     "answer": "Bidirectional sync — send from CRM or Outlook, all messages captured in both. Drip campaigns: 150–300 emails/day with rotation and warming to protect domain health"
   },
   {
-    "question": "zea crm section 76",
-    "answer": "SMS"
-  },
-  {
-    "question": "zea crm section 77",
-    "answer": "Automated message sequences with customisable timing and content"
-  },
-  {
-    "question": "zea crm section 78",
-    "answer": "WhatsApp Business"
-  },
-  {
-    "question": "zea crm section 79",
-    "answer": "Outbound automated messages and inbound capture — all conversations logged in CRM"
-  },
-  {
-    "question": "zea crm section 80",
-    "answer": "Inbound Voice AI"
-  },
-  {
-    "question": "zea crm section 81",
+    "question": "answers missed calls after configurable rings. introduces as ai assistant. answe",
+    "keywords": [
+      "Answers",
+      "missed",
+      "calls",
+      "after",
+      "configurable"
+    ],
     "answer": "Answers missed calls after configurable rings. Introduces as AI assistant. Answers from knowledge base, escalates to human when needed. Can serve as after-hours/weekend number"
   },
   {
-    "question": "zea crm section 82",
-    "answer": "Outbound Voice AI"
-  },
-  {
-    "question": "zea crm section 83",
-    "answer": "Proactively calls leads to schedule appointments. Can eliminate need for a call centre"
-  },
-  {
-    "question": "zea crm section 84",
-    "answer": "Website Chatbot"
-  },
-  {
-    "question": "zea crm section 85",
-    "answer": "AI chatbot deployed on client website — collects requirements, gives estimates, books appointments"
-  },
-  {
-    "question": "zea crm section 86",
-    "answer": "Instagram DMs"
-  },
-  {
-    "question": "zea crm section 87",
-    "answer": "Lead capture and automated responses via AI agent"
-  },
-  {
-    "question": "zea crm section 88",
-    "answer": "Facebook Messenger"
-  },
-  {
-    "question": "zea crm section 89",
-    "answer": "Lead capture and follow-up flows"
-  },
-  {
-    "question": "zea crm section 90",
-    "answer": "LinkedIn"
-  },
-  {
-    "question": "zea crm section 91",
-    "answer": "Outreach automation supported; Sales Navigator compatible"
-  },
-  {
-    "question": "zea crm section 92",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 93",
-    "answer": "3.3  AI Agents"
-  },
-  {
-    "question": "zea crm section 94",
-    "answer": "▸  Voice Agent (Inbound & Outbound)"
-  },
-  {
-    "question": "zea crm section 95",
-    "answer": "Inbound: connects to business phone via Twilio — picks up after configurable rings"
-  },
-  {
-    "question": "zea crm section 96",
-    "answer": "Outbound: proactively dials leads to schedule appointments and follow up"
-  },
-  {
-    "question": "zea crm section 97",
-    "answer": "Introduces itself: 'Hi, this is [Client Name]'s AI assistant, how can I help you?'"
-  },
-  {
-    "question": "zea crm section 98",
-    "answer": "Can serve as main number for after-hours and weekend coverage"
-  },
-  {
-    "question": "zea crm section 99",
-    "answer": "Answers questions from pre-uploaded knowledge base Q&A documents"
-  },
-  {
-    "question": "zea crm section 100",
-    "answer": "Voice can be cloned using 11 Labs to match the client's own voice"
-  },
-  {
-    "question": "zea crm section 101",
-    "answer": "References contact ID and appointment history — can reschedule and send reminders"
-  },
-  {
-    "question": "zea crm section 102",
-    "answer": "Escalates to human when it reaches the limit of its knowledge base"
-  },
-  {
-    "question": "zea crm section 103",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 104",
-    "answer": "▸  Conversation Agent (Chat / Chatbot)"
-  },
-  {
-    "question": "zea crm section 105",
-    "answer": "Deployed on website chatbot, WhatsApp, or any messaging channel"
-  },
-  {
-    "question": "zea crm section 106",
-    "answer": "Fed with Q&A pairs, product documents, service descriptions, and pricing sheets"
-  },
-  {
-    "question": "zea crm section 107",
-    "answer": "Powered by ChatGPT-4 — contextual answers, not copy-paste templates"
-  },
-  {
-    "question": "zea crm section 108",
-    "answer": "Machine learning — improves from every conversation over time"
-  },
-  {
-    "question": "zea crm section 109",
-    "answer": "Generates personalised follow-up messages based on full conversation history and call recordings"
-  },
-  {
-    "question": "zea crm section 110",
-    "answer": "If it cannot answer a question, it notifies the team and logs the gap for retraining"
-  },
-  {
-    "question": "zea crm section 111",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 112",
-    "answer": "▸  Lead Scoring Agent"
-  },
-  {
-    "question": "zea crm section 113",
-    "answer": "Reads the complete conversation chain: email, SMS, WhatsApp, call logs"
-  },
-  {
-    "question": "zea crm section 114",
+    "question": "scores leads 0–100 based on intent signals, urgency, and full conversation conte",
+    "keywords": [
+      "Scores",
+      "leads",
+      "0–100",
+      "based",
+      "on"
+    ],
     "answer": "Scores leads 0–100 based on intent signals, urgency, and full conversation context (not just keywords)"
   },
   {
-    "question": "zea crm section 115",
-    "answer": "Output example: '90% — high priority, follow up now' / '30% — warm, keep nurturing'"
-  },
-  {
-    "question": "zea crm section 116",
-    "answer": "Helps sales teams prioritise who to call first"
-  },
-  {
-    "question": "zea crm section 117",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 118",
-    "answer": "3.4  Customisable AI Routing Dashboard"
-  },
-  {
-    "question": "zea crm section 119",
-    "answer": "Visual dashboard to configure which AI agent handles which channel or funnel stage"
-  },
-  {
-    "question": "zea crm section 120",
-    "answer": "Toggle AI on/off per funnel stage — full human control at every point"
-  },
-  {
-    "question": "zea crm section 121",
-    "answer": "Configure routing rules: by lead source, geography, revenue bracket, or team member"
-  },
-  {
-    "question": "zea crm section 122",
-    "answer": "Real-time execution logs — see every lead moving through the workflow live"
-  },
-  {
-    "question": "zea crm section 123",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 124",
-    "answer": "3.5  Workflow Automation Engine"
-  },
-  {
-    "question": "zea crm section 125",
-    "answer": "Node-based visual workflow builder — self-hosted by ZEA (no Zapier subscription required)"
-  },
-  {
-    "question": "zea crm section 126",
-    "answer": "ZEA builds and configures all workflows during client onboarding"
-  },
-  {
-    "question": "zea crm section 127",
-    "answer": "Clients request changes at any time — ZEA implements them"
-  },
-  {
-    "question": "zea crm section 128",
-    "answer": "Execution speed: milliseconds (self-hosted server, not external)"
-  },
-  {
-    "question": "zea crm section 129",
-    "answer": "n8n open-source engine used for edge cases — included at no extra cost to client"
-  },
-  {
-    "question": "zea crm section 130",
-    "answer": "Connects to any system via webhooks and API"
-  },
-  {
-    "question": "zea crm section 131",
-    "answer": "LLM flexibility: can connect ChatGPT, Anthropic Claude, or any LLM within workflows"
-  },
-  {
-    "question": "zea crm section 132",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 133",
-    "answer": "3.6  Online Reputation Management"
-  },
-  {
-    "question": "zea crm section 134",
-    "answer": "Post-job review request sent automatically after every completed project"
-  },
-  {
-    "question": "zea crm section 135",
-    "answer": "5-star review → posted directly to Google Business page automatically"
-  },
-  {
-    "question": "zea crm section 136",
-    "answer": "Less than 5 stars → intercepted, stored in internal dashboard only"
-  },
-  {
-    "question": "zea crm section 137",
-    "answer": "Team notified: 'Client X gave 3.5 stars — reach out to resolve before it goes public'"
-  },
-  {
-    "question": "zea crm section 138",
-    "answer": "Prevents negative reviews going public while creating service recovery opportunities"
-  },
-  {
-    "question": "zea crm section 139",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 140",
-    "answer": "3.7  Email Campaigns"
-  },
-  {
-    "question": "zea crm section 141",
-    "answer": "Drip campaign engine — NOT a bulk email tool"
-  },
-  {
-    "question": "zea crm section 142",
-    "answer": "150–300 emails per day maximum — protects domain health and sender reputation"
-  },
-  {
-    "question": "zea crm section 143",
-    "answer": "Multiple email addresses rotated across a domain to avoid spam detection"
-  },
-  {
-    "question": "zea crm section 144",
-    "answer": "Monthly newsletters to cold or dormant leads — indefinitely (annual funnel)"
-  },
-  {
-    "question": "zea crm section 145",
-    "answer": "All messages personalised by AI — not static templates"
-  },
-  {
-    "question": "zea crm section 146",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 147",
-    "answer": "3.8  Social Media & Ad Management"
-  },
-  {
-    "question": "zea crm section 148",
-    "answer": "Integrated social media planner: Instagram, Facebook, LinkedIn, Meta Ads"
-  },
-  {
-    "question": "zea crm section 149",
-    "answer": "Ad manager: run and manage Google, Meta, and LinkedIn campaigns from one dashboard"
-  },
-  {
-    "question": "zea crm section 150",
-    "answer": "All ad leads automatically flow into the CRM — no manual import required"
-  },
-  {
-    "question": "zea crm section 151",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 152",
-    "answer": "3.9  Payment Integration"
-  },
-  {
-    "question": "zea crm section 153",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 154",
-    "answer": "Gateway"
-  },
-  {
-    "question": "zea crm section 155",
-    "answer": "Status"
-  },
-  {
-    "question": "zea crm section 156",
-    "answer": "Stripe"
-  },
-  {
-    "question": "zea crm section 157",
-    "answer": "Live — available now"
-  },
-  {
-    "question": "zea crm section 158",
-    "answer": "Payoneer"
-  },
-  {
-    "question": "zea crm section 159",
-    "answer": "Live — available now"
-  },
-  {
-    "question": "zea crm section 160",
-    "answer": "PayPal"
-  },
-  {
-    "question": "zea crm section 161",
-    "answer": "In development"
-  },
-  {
-    "question": "zea crm section 162",
-    "answer": "Client's existing gateway"
-  },
-  {
-    "question": "zea crm section 163",
-    "answer": "Integrable via API"
-  },
-  {
-    "question": "zea crm section 164",
-    "answer": "Zoho Books"
-  },
-  {
-    "question": "zea crm section 165",
-    "answer": "Bidirectional sync — invoices from either platform sync to both"
-  },
-  {
-    "question": "zea crm section 166",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 167",
-    "answer": "3.10  Knowledge Base Module"
-  },
-  {
-    "question": "zea crm section 168",
-    "answer": "Upload any documents: PDFs, Excel, Q&A documents, product guides, pricing sheets"
-  },
-  {
-    "question": "zea crm section 169",
-    "answer": "AI agents learn from the knowledge base and use it to answer questions and draft messages"
-  },
-  {
-    "question": "zea crm section 170",
-    "answer": "Editable at any time — update pricing or product specs without rebuilding the AI"
-  },
-  {
-    "question": "zea crm section 171",
-    "answer": "Supports URL-based learning — website pages can be linked as a source"
-  },
-  {
-    "question": "zea crm section 172",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 173",
-    "answer": "3.11  Project & Job Management"
-  },
-  {
-    "question": "zea crm section 174",
-    "answer": "Technician assignment and progress tracking for live projects"
-  },
-  {
-    "question": "zea crm section 175",
-    "answer": "Task checklists — automatic client notification when each task is completed"
-  },
-  {
-    "question": "zea crm section 176",
-    "answer": "Supports multiple concurrent projects across multiple technicians"
-  },
-  {
-    "question": "zea crm section 177",
-    "answer": "Integrates with third-party project management software via API"
-  },
-  {
-    "question": "zea crm section 178",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 179",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 180",
-    "answer": "4. Complete Sales Workflow Pipeline"
-  },
-  {
-    "question": "zea crm section 181",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 182",
+    "question": "based on the zea crm figma workflow diagram. leads flow automatically through ea",
+    "keywords": [
+      "Based",
+      "on",
+      "the",
+      "ZEA",
+      "CRM"
+    ],
     "answer": "Based on the ZEA CRM Figma workflow diagram. Leads flow automatically through each stage. AI handles follow-up at every automated stage — humans step in only for high-value personal touchpoints. Each stage can have AI switched ON or OFF independently."
   },
   {
-    "question": "zea crm section 183",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 184",
-    "answer": "LEAD SOURCES"
-  },
-  {
-    "question": "zea crm section 185",
+    "question": "google ads  •  facebook  •  instagram  •  website form  •  missed call  •  whats",
+    "keywords": [
+      "Google",
+      "Ads",
+      "",
+      "•",
+      ""
+    ],
     "answer": "Google Ads  •  Facebook  •  Instagram  •  Website Form  •  Missed Call  •  WhatsApp  •  LinkedIn  •  Referral  •  Cold Outreach"
   },
   {
-    "question": "zea crm section 186",
-    "answer": "#"
-  },
-  {
-    "question": "zea crm section 187",
-    "answer": "Pipeline Stage"
-  },
-  {
-    "question": "zea crm section 188",
-    "answer": "What Happens"
-  },
-  {
-    "question": "zea crm section 189",
-    "answer": "AI Mode"
-  },
-  {
-    "question": "zea crm section 190",
-    "answer": "1"
-  },
-  {
-    "question": "zea crm section 191",
-    "answer": "New Lead Capture"
-  },
-  {
-    "question": "zea crm section 192",
+    "question": "lead enters from any source. ai enriches contact data automatically (appends pho",
+    "keywords": [
+      "Lead",
+      "enters",
+      "from",
+      "any",
+      "source."
+    ],
     "answer": "Lead enters from any source. AI enriches contact data automatically (appends phone, LinkedIn, social handles). Internal notification sent to sales team immediately."
   },
   {
-    "question": "zea crm section 193",
-    "answer": "AI ON"
-  },
-  {
-    "question": "zea crm section 194",
-    "answer": "2"
-  },
-  {
-    "question": "zea crm section 195",
-    "answer": "New Lead Funnel"
-  },
-  {
-    "question": "zea crm section 196",
+    "question": "ai sends initial personalised message within 5 minutes. follow-ups at 20 min, 1 ",
+    "keywords": [
+      "AI",
+      "sends",
+      "initial",
+      "personalised",
+      "message"
+    ],
     "answer": "AI sends initial personalised message within 5 minutes. Follow-ups at 20 min, 1 hour, 10 days, and 30 days if no response. Goal: book an appointment. Messages are contextual — not static templates."
   },
   {
-    "question": "zea crm section 197",
-    "answer": "AI ON"
-  },
-  {
-    "question": "zea crm section 198",
-    "answer": "3"
-  },
-  {
-    "question": "zea crm section 199",
-    "answer": "Follow-Up Funnel"
-  },
-  {
-    "question": "zea crm section 200",
+    "question": "if lead does not respond to the new lead funnel: ai sends a further sequence ove",
+    "keywords": [
+      "If",
+      "lead",
+      "does",
+      "not",
+      "respond"
+    ],
     "answer": "If lead does not respond to the New Lead Funnel: AI sends a further sequence over 30 days with varied touchpoints across email, SMS, and WhatsApp before moving to Annual Funnel."
   },
   {
-    "question": "zea crm section 201",
-    "answer": "AI ON"
-  },
-  {
-    "question": "zea crm section 202",
-    "answer": "4"
-  },
-  {
-    "question": "zea crm section 203",
-    "answer": "Appointment Funnel"
-  },
-  {
-    "question": "zea crm section 204",
+    "question": "ai checks live calendar availability and books appointment automatically. confir",
+    "keywords": [
+      "AI",
+      "checks",
+      "live",
+      "calendar",
+      "availability"
+    ],
     "answer": "AI checks live calendar availability and books appointment automatically. Confirmation sent to both parties. Reminders at 24 hrs, 30 min, and 5 min before meeting to eliminate no-shows."
   },
   {
-    "question": "zea crm section 205",
-    "answer": "AI ON"
-  },
-  {
-    "question": "zea crm section 206",
-    "answer": "5"
-  },
-  {
-    "question": "zea crm section 207",
-    "answer": "Site Visit / Demo"
-  },
-  {
-    "question": "zea crm section 208",
+    "question": "human-led meeting. ai switched off. salesperson conducts site visit, zoom, or ph",
+    "keywords": [
+      "Human-led",
+      "meeting.",
+      "AI",
+      "switched",
+      "OFF."
+    ],
     "answer": "Human-led meeting. AI switched OFF. Salesperson conducts site visit, Zoom, or phone consultation. Notes captured in CRM for AI to reference in future messages."
   },
   {
-    "question": "zea crm section 209",
-    "answer": "AI OFF"
-  },
-  {
-    "question": "zea crm section 210",
-    "answer": "6"
-  },
-  {
-    "question": "zea crm section 211",
-    "answer": "Estimation Funnel"
-  },
-  {
-    "question": "zea crm section 212",
+    "question": "proposal or estimate prepared (integrates existing estimation tools via api). on",
+    "keywords": [
+      "Proposal",
+      "or",
+      "estimate",
+      "prepared",
+      "(integrates"
+    ],
     "answer": "Proposal or estimate prepared (integrates existing estimation tools via API). Once proposal sent, AI re-activates: sends confirmation then follows up every 2–3 days seeking feedback or questions."
   },
   {
-    "question": "zea crm section 213",
-    "answer": "AI ON"
-  },
-  {
-    "question": "zea crm section 214",
-    "answer": "7"
-  },
-  {
-    "question": "zea crm section 215",
-    "answer": "Disposition Funnel"
-  },
-  {
-    "question": "zea crm section 216",
+    "question": "ai handles all incoming objections and questions using pre-loaded q&a bank. cove",
+    "keywords": [
+      "AI",
+      "handles",
+      "all",
+      "incoming",
+      "objections"
+    ],
     "answer": "AI handles all incoming objections and questions using pre-loaded Q&A bank. Covers: need more time, comparing quotes, partner needs to approve. Escalates to human at knowledge limit."
   },
   {
-    "question": "zea crm section 217",
-    "answer": "AI ON"
-  },
-  {
-    "question": "zea crm section 218",
-    "answer": "8"
-  },
-  {
-    "question": "zea crm section 219",
-    "answer": "Job In Progress"
-  },
-  {
-    "question": "zea crm section 220",
+    "question": "technician assigned. task checklists tracked. client receives automatic notifica",
+    "keywords": [
+      "Technician",
+      "assigned.",
+      "Task",
+      "checklists",
+      "tracked."
+    ],
     "answer": "Technician assigned. Task checklists tracked. Client receives automatic notifications as tasks are completed. Syncs with project management software."
   },
   {
-    "question": "zea crm section 221",
-    "answer": "AI ON"
-  },
-  {
-    "question": "zea crm section 222",
-    "answer": "9"
-  },
-  {
-    "question": "zea crm section 223",
-    "answer": "Review & Referral Funnel"
-  },
-  {
-    "question": "zea crm section 224",
+    "question": "after job completion: ai sends review request link. 5-star → auto-posted to goog",
+    "keywords": [
+      "After",
+      "job",
+      "completion:",
+      "AI",
+      "sends"
+    ],
     "answer": "After job completion: AI sends review request link. 5-star → auto-posted to Google. Sub-5-star → flagged internally for recovery. Referral request also sent automatically."
   },
   {
-    "question": "zea crm section 225",
-    "answer": "AI ON"
-  },
-  {
-    "question": "zea crm section 226",
-    "answer": "10"
-  },
-  {
-    "question": "zea crm section 227",
-    "answer": "Annual Maintenance"
-  },
-  {
-    "question": "zea crm section 228",
+    "question": "automatic amc renewal reminders sent before contract expiry. payment link trigge",
+    "keywords": [
+      "Automatic",
+      "AMC",
+      "renewal",
+      "reminders",
+      "sent"
+    ],
     "answer": "Automatic AMC renewal reminders sent before contract expiry. Payment link triggered on client approval. Covers all clients with active maintenance agreements."
   },
   {
-    "question": "zea crm section 229",
-    "answer": "AI ON"
-  },
-  {
-    "question": "zea crm section 230",
-    "answer": "11"
-  },
-  {
-    "question": "zea crm section 231",
-    "answer": "Customer / Post-Care"
-  },
-  {
-    "question": "zea crm section 232",
+    "question": "30 / 60 / 90-day automated check-in messages post-delivery. ensures customer sat",
+    "keywords": [
+      "30",
+      "/",
+      "60",
+      "/",
+      "90-day"
+    ],
     "answer": "30 / 60 / 90-day automated check-in messages post-delivery. Ensures customer satisfaction and surfaces upsell opportunities for upgrades or additional services."
   },
   {
-    "question": "zea crm section 233",
-    "answer": "AI ON"
-  },
-  {
-    "question": "zea crm section 234",
-    "answer": "12"
-  },
-  {
-    "question": "zea crm section 235",
-    "answer": "Annual / Cold Lead Funnel"
-  },
-  {
-    "question": "zea crm section 236",
+    "question": "leads that ghosted at any stage move here. monthly personalised email + sms sent",
+    "keywords": [
+      "Leads",
+      "that",
+      "ghosted",
+      "at",
+      "any"
+    ],
     "answer": "Leads that ghosted at any stage move here. Monthly personalised email + SMS sent indefinitely. AI voice calls triggered periodically. If lead responds positively, they re-enter the Appointment Funnel automatically."
   },
   {
-    "question": "zea crm section 237",
-    "answer": "AI ON"
-  },
-  {
-    "question": "zea crm section 238",
-    "answer": "13"
-  },
-  {
-    "question": "zea crm section 239",
-    "answer": "Weather Funnel"
-  },
-  {
-    "question": "zea crm section 240",
+    "question": "for clients in storm-prone regions. toggle on when government storm alert issued",
+    "keywords": [
+      "For",
+      "clients",
+      "in",
+      "storm-prone",
+      "regions."
+    ],
     "answer": "For clients in storm-prone regions. Toggle ON when government storm alert issued. System pulls contacts in affected zip codes and sends safety alerts, equipment protection instructions, and post-storm follow-up with AMC upsell."
   },
   {
-    "question": "zea crm section 241",
-    "answer": "AI ON"
-  },
-  {
-    "question": "zea crm section 242",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 243",
-    "answer": "4.1  'No Response' Path"
-  },
-  {
-    "question": "zea crm section 244",
-    "answer": "No response after New Lead Funnel → moves to Follow-Up Funnel (30-day sequence)"
-  },
-  {
-    "question": "zea crm section 245",
-    "answer": "No response after Follow-Up Funnel → moves to Annual Funnel (monthly touch, indefinitely)"
-  },
-  {
-    "question": "zea crm section 246",
-    "answer": "Prospect says 'not interested' → moves immediately to Annual Funnel"
-  },
-  {
-    "question": "zea crm section 247",
-    "answer": "Annual Funnel positive response → automatically re-enters Appointment Funnel"
-  },
-  {
-    "question": "zea crm section 248",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 249",
-    "answer": "4.2  AI On/Off Logic"
-  },
-  {
-    "question": "zea crm section 250",
-    "answer": "AI is ON by default at every automated stage"
-  },
-  {
-    "question": "zea crm section 251",
-    "answer": "AI is OFF during human-interaction stages: site visit, live demo, negotiation"
-  },
-  {
-    "question": "zea crm section 252",
-    "answer": "Client or sales team can manually override AI at any stage at any time"
-  },
-  {
-    "question": "zea crm section 253",
-    "answer": "When AI hits a question it cannot answer, it alerts the human team and logs the gap for retraining"
-  },
-  {
-    "question": "zea crm section 254",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 255",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 256",
-    "answer": "5. Integrations"
-  },
-  {
-    "question": "zea crm section 257",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 258",
+    "question": "zea crm supports the same integration ecosystem as gohighlevel (ghl), meaning it",
+    "keywords": [
+      "ZEA",
+      "CRM",
+      "supports",
+      "the",
+      "same"
+    ],
     "answer": "ZEA CRM supports the same integration ecosystem as GoHighLevel (GHL), meaning it connects with virtually any tool your clients are already using."
   },
   {
-    "question": "zea crm section 259",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 260",
-    "answer": "5.1  CRM & Business Tools"
-  },
-  {
-    "question": "zea crm section 261",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 262",
-    "answer": "Tool"
-  },
-  {
-    "question": "zea crm section 263",
-    "answer": "Integration"
-  },
-  {
-    "question": "zea crm section 264",
-    "answer": "Zoho CRM"
-  },
-  {
-    "question": "zea crm section 265",
-    "answer": "Bidirectional API sync — leads, contacts, activities"
-  },
-  {
-    "question": "zea crm section 266",
-    "answer": "Zoho Books"
-  },
-  {
-    "question": "zea crm section 267",
-    "answer": "Invoice and payment sync — bidirectional"
-  },
-  {
-    "question": "zea crm section 268",
-    "answer": "Zoho Bookings"
-  },
-  {
-    "question": "zea crm section 269",
-    "answer": "Calendar integration for appointment scheduling"
-  },
-  {
-    "question": "zea crm section 270",
-    "answer": "GoHighLevel (GHL)"
-  },
-  {
-    "question": "zea crm section 271",
-    "answer": "Full platform compatibility — same integration layer"
-  },
-  {
-    "question": "zea crm section 272",
-    "answer": "Bitrix24"
-  },
-  {
-    "question": "zea crm section 273",
-    "answer": "API integration"
-  },
-  {
-    "question": "zea crm section 274",
-    "answer": "Odoo"
-  },
-  {
-    "question": "zea crm section 275",
-    "answer": "API integration"
-  },
-  {
-    "question": "zea crm section 276",
-    "answer": "SAP"
-  },
-  {
-    "question": "zea crm section 277",
-    "answer": "API integration for enterprise clients"
-  },
-  {
-    "question": "zea crm section 278",
-    "answer": "Google Sheets"
-  },
-  {
-    "question": "zea crm section 279",
-    "answer": "Webhook-based data push and pull"
-  },
-  {
-    "question": "zea crm section 280",
-    "answer": "Dropbox"
-  },
-  {
-    "question": "zea crm section 281",
-    "answer": "Document storage integration"
-  },
-  {
-    "question": "zea crm section 282",
-    "answer": "Zapier"
-  },
-  {
-    "question": "zea crm section 283",
-    "answer": "Webhook compatible (ZEA can replace Zapier entirely — no subscription needed)"
-  },
-  {
-    "question": "zea crm section 284",
-    "answer": "n8n"
-  },
-  {
-    "question": "zea crm section 285",
-    "answer": "Self-hosted, used internally for complex workflow edge cases — no client cost"
-  },
-  {
-    "question": "zea crm section 286",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 287",
-    "answer": "5.2  Communication & Messaging"
-  },
-  {
-    "question": "zea crm section 288",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 289",
-    "answer": "Tool"
-  },
-  {
-    "question": "zea crm section 290",
-    "answer": "Integration"
-  },
-  {
-    "question": "zea crm section 291",
-    "answer": "WhatsApp Business API"
-  },
-  {
-    "question": "zea crm section 292",
-    "answer": "Inbound capture + outbound automated messages"
-  },
-  {
-    "question": "zea crm section 293",
-    "answer": "Gmail"
-  },
-  {
-    "question": "zea crm section 294",
-    "answer": "Bidirectional email sync"
-  },
-  {
-    "question": "zea crm section 295",
-    "answer": "Outlook / Microsoft 365"
-  },
-  {
-    "question": "zea crm section 296",
-    "answer": "Bidirectional email sync"
-  },
-  {
-    "question": "zea crm section 297",
-    "answer": "Microsoft Teams"
-  },
-  {
-    "question": "zea crm section 298",
-    "answer": "Meeting scheduling and notification integration"
-  },
-  {
-    "question": "zea crm section 299",
-    "answer": "Twilio"
-  },
-  {
-    "question": "zea crm section 300",
-    "answer": "AI voice calls — inbound and outbound"
-  },
-  {
-    "question": "zea crm section 301",
-    "answer": "11 Labs"
-  },
-  {
-    "question": "zea crm section 302",
-    "answer": "Voice cloning for personalised AI voice agent"
-  },
-  {
-    "question": "zea crm section 303",
-    "answer": "Facebook Messenger"
-  },
-  {
-    "question": "zea crm section 304",
-    "answer": "Lead capture and follow-up"
-  },
-  {
-    "question": "zea crm section 305",
-    "answer": "Instagram DMs"
-  },
-  {
-    "question": "zea crm section 306",
-    "answer": "Lead capture and follow-up"
-  },
-  {
-    "question": "zea crm section 307",
-    "answer": "LinkedIn"
-  },
-  {
-    "question": "zea crm section 308",
-    "answer": "Outreach automation; Sales Navigator compatible"
-  },
-  {
-    "question": "zea crm section 309",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 310",
-    "answer": "5.3  Marketing & Campaigns"
-  },
-  {
-    "question": "zea crm section 311",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 312",
-    "answer": "Tool"
-  },
-  {
-    "question": "zea crm section 313",
-    "answer": "Integration"
-  },
-  {
-    "question": "zea crm section 314",
-    "answer": "Google Ads"
-  },
-  {
-    "question": "zea crm section 315",
-    "answer": "Lead form integration — leads auto-enter CRM"
-  },
-  {
-    "question": "zea crm section 316",
-    "answer": "Meta Ads (Facebook/Instagram)"
-  },
-  {
-    "question": "zea crm section 317",
-    "answer": "Lead form integration — leads auto-enter CRM"
-  },
-  {
-    "question": "zea crm section 318",
-    "answer": "LinkedIn Ads"
-  },
-  {
-    "question": "zea crm section 319",
-    "answer": "Campaign management and lead capture"
-  },
-  {
-    "question": "zea crm section 320",
-    "answer": "ActiveCampaign"
-  },
-  {
-    "question": "zea crm section 321",
-    "answer": "API integration"
-  },
-  {
-    "question": "zea crm section 322",
-    "answer": "Brevo (Sendinblue)"
-  },
-  {
-    "question": "zea crm section 323",
-    "answer": "API integration for external email campaigns"
-  },
-  {
-    "question": "zea crm section 324",
-    "answer": "Constant Contact"
-  },
-  {
-    "question": "zea crm section 325",
-    "answer": "Can be replaced by ZEA's built-in drip campaign engine"
-  },
-  {
-    "question": "zea crm section 326",
-    "answer": "MailChimp"
-  },
-  {
-    "question": "zea crm section 327",
-    "answer": "Can be replaced by ZEA's built-in drip campaign engine"
-  },
-  {
-    "question": "zea crm section 328",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 329",
-    "answer": "5.4  Scheduling & Calendar"
-  },
-  {
-    "question": "zea crm section 330",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 331",
-    "answer": "Tool"
-  },
-  {
-    "question": "zea crm section 332",
-    "answer": "Integration"
-  },
-  {
-    "question": "zea crm section 333",
-    "answer": "Google Calendar"
-  },
-  {
-    "question": "zea crm section 334",
-    "answer": "Live availability sync"
-  },
-  {
-    "question": "zea crm section 335",
-    "answer": "Calendly"
-  },
-  {
-    "question": "zea crm section 336",
-    "answer": "Self-booking flow integration"
-  },
-  {
-    "question": "zea crm section 337",
-    "answer": "Zoom"
-  },
-  {
-    "question": "zea crm section 338",
-    "answer": "Meeting link generation and reminder automation"
-  },
-  {
-    "question": "zea crm section 339",
-    "answer": "Microsoft Teams"
-  },
-  {
-    "question": "zea crm section 340",
-    "answer": "Meeting scheduling and reminders"
-  },
-  {
-    "question": "zea crm section 341",
-    "answer": "Zoho Bookings"
-  },
-  {
-    "question": "zea crm section 342",
-    "answer": "Appointment scheduling integration"
-  },
-  {
-    "question": "zea crm section 343",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 344",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 345",
-    "answer": "6. Pricing"
-  },
-  {
-    "question": "zea crm section 346",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 347",
-    "answer": "6.1  Monthly Subscription Plans"
-  },
-  {
-    "question": "zea crm section 348",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 349",
-    "answer": "Plan"
-  },
-  {
-    "question": "zea crm section 350",
-    "answer": "Price & Inclusions"
-  },
-  {
-    "question": "zea crm section 351",
-    "answer": "Full Funnels Plan"
-  },
-  {
-    "question": "zea crm section 352",
+    "question": "$599 / month — all 13 pipeline stages, full ai agents (voice + chat + scoring), ",
+    "keywords": [
+      "$599",
+      "/",
+      "month",
+      "—",
+      "All"
+    ],
     "answer": "$599 / month — All 13 pipeline stages, full AI agents (voice + chat + scoring), reputation management, social media planner, email campaigns, up to 5 users, all workflow automations"
   },
   {
-    "question": "zea crm section 353",
-    "answer": "Limited Funnels Plan"
-  },
-  {
-    "question": "zea crm section 354",
+    "question": "$499 / month — core funnels (lead capture, appointment, follow-up, estimation, d",
+    "keywords": [
+      "$499",
+      "/",
+      "month",
+      "—",
+      "Core"
+    ],
     "answer": "$499 / month — Core funnels (lead capture, appointment, follow-up, estimation, disposition), up to 5 users, AI agents, basic automation"
   },
   {
-    "question": "zea crm section 355",
-    "answer": "CRM Only (Basic)"
-  },
-  {
-    "question": "zea crm section 356",
+    "question": "$97–$249 / month — crm platform access without full workflow automation. for cli",
+    "keywords": [
+      "$97–$249",
+      "/",
+      "month",
+      "—",
+      "CRM"
+    ],
     "answer": "$97–$249 / month — CRM platform access without full workflow automation. For clients who want to start light"
   },
   {
-    "question": "zea crm section 357",
-    "answer": "India Market"
-  },
-  {
-    "question": "zea crm section 358",
-    "answer": "₹10,000–₹30,000 / month — Equivalent tiered plans for India-based clients"
-  },
-  {
-    "question": "zea crm section 359",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 360",
-    "answer": "6.2  One-Time Setup Fee"
-  },
-  {
-    "question": "zea crm section 361",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 362",
-    "answer": "Setup Type"
-  },
-  {
-    "question": "zea crm section 363",
-    "answer": "Fee"
-  },
-  {
-    "question": "zea crm section 364",
-    "answer": "Standard Setup (ZEA CRM native)"
-  },
-  {
-    "question": "zea crm section 365",
+    "question": "$999 — account setup, crm configuration, 5 automated workflows, ai agent trainin",
+    "keywords": [
+      "$999",
+      "—",
+      "account",
+      "setup,",
+      "CRM"
+    ],
     "answer": "$999 — account setup, CRM configuration, 5 automated workflows, AI agent training, team onboarding and knowledge transfer"
   },
   {
-    "question": "zea crm section 366",
-    "answer": "Advanced Setup (with 3rd-party CRM integration)"
-  },
-  {
-    "question": "zea crm section 367",
+    "question": "$1,499 — all standard setup plus api integration with client's existing crm (zoh",
+    "keywords": [
+      "$1,499",
+      "—",
+      "all",
+      "standard",
+      "setup"
+    ],
     "answer": "$1,499 — all standard setup PLUS API integration with client's existing CRM (Zoho, Bitrix24, Odoo, etc.)"
   },
   {
-    "question": "zea crm section 368",
-    "answer": "Custom / Complex Setup"
-  },
-  {
-    "question": "zea crm section 369",
-    "answer": "$1,499–$3,000 — highly customised workflows, multiple integrations, or enterprise requirements"
-  },
-  {
-    "question": "zea crm section 370",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 371",
-    "answer": "PRICING NOTE"
-  },
-  {
-    "question": "zea crm section 372",
+    "question": "setup fee is one-time only. no annual maintenance fees. workflow changes after o",
+    "keywords": [
+      "Setup",
+      "fee",
+      "is",
+      "one-time",
+      "only."
+    ],
     "answer": "Setup fee is one-time only. No annual maintenance fees. Workflow changes after onboarding are handled by ZEA with minimal additional charges. Website chatbot deployment is included FREE when signing up for a full plan."
   },
   {
-    "question": "zea crm section 373",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 374",
-    "answer": "6.3  Free Trial"
-  },
-  {
-    "question": "zea crm section 375",
-    "answer": "CRM platform: 15-day free trial available"
-  },
-  {
-    "question": "zea crm section 376",
-    "answer": "Workflow automations: NOT included in trial (require development resources to build)"
-  },
-  {
-    "question": "zea crm section 377",
+    "question": "proof of concept option: zea can build 1–2 live workflows and run them for 10–15",
+    "keywords": [
+      "Proof",
+      "of",
+      "concept",
+      "option:",
+      "ZEA"
+    ],
     "answer": "Proof of concept option: ZEA can build 1–2 live workflows and run them for 10–15 days before full commitment"
   },
   {
-    "question": "zea crm section 378",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 379",
-    "answer": "6.4  Pricing Objection Responses"
-  },
-  {
-    "question": "zea crm section 380",
+    "question": "vs. a new hire: a junior salesperson costs $2,000–$4,000/month — zea works 24/7 ",
+    "keywords": [
+      "vs.",
+      "a",
+      "new",
+      "hire:",
+      "a"
+    ],
     "answer": "vs. a new hire: a junior salesperson costs $2,000–$4,000/month — ZEA works 24/7 and never misses a follow-up"
   },
   {
-    "question": "zea crm section 381",
+    "question": "vs. competitors: gohighlevel resellers charge $1,500–$2,000/month for similar au",
+    "keywords": [
+      "vs.",
+      "competitors:",
+      "GoHighLevel",
+      "resellers",
+      "charge"
+    ],
     "answer": "vs. competitors: GoHighLevel resellers charge $1,500–$2,000/month for similar automation — ZEA is significantly cheaper"
   },
   {
-    "question": "zea crm section 382",
+    "question": "annual framing: $599 × 12 = $7,188/year — less than the value of one recovered d",
+    "keywords": [
+      "Annual",
+      "framing:",
+      "$599",
+      "×",
+      "12"
+    ],
     "answer": "Annual framing: $599 × 12 = $7,188/year — less than the value of one recovered deal in most AV businesses"
   },
   {
-    "question": "zea crm section 383",
-    "answer": "Daily cost: $599/month = $19.96/day — less than most business lunches"
-  },
-  {
-    "question": "zea crm section 384",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 385",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 386",
-    "answer": "7. Sales Objections & Responses"
-  },
-  {
-    "question": "zea crm section 387",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 388",
-    "answer": "Use this section for sales team training, AI agent Q&A knowledge base, and onboarding preparation."
-  },
-  {
-    "question": "zea crm section 389",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 390",
-    "answer": "Objection"
-  },
-  {
-    "question": "zea crm section 391",
-    "answer": "Recommended Response"
-  },
-  {
-    "question": "zea crm section 392",
-    "answer": "We already have a CRM (Zoho, Bitrix24, Odoo)"
-  },
-  {
-    "question": "zea crm section 393",
+    "question": "zea does not replace your crm — it adds ai automation on top via api integration",
+    "keywords": [
+      "ZEA",
+      "does",
+      "not",
+      "replace",
+      "your"
+    ],
     "answer": "ZEA does not replace your CRM — it adds AI automation on top via API integration. Your existing data, workflows, and team habits stay intact. You get the automation layer without the migration pain."
   },
   {
-    "question": "zea crm section 394",
-    "answer": "$499–$599/month is too expensive"
-  },
-  {
-    "question": "zea crm section 395",
+    "question": "compare it to a full-time salesperson who costs $2,000–$4,000/month and only wor",
+    "keywords": [
+      "Compare",
+      "it",
+      "to",
+      "a",
+      "full-time"
+    ],
     "answer": "Compare it to a full-time salesperson who costs $2,000–$4,000/month and only works 8 hours a day. ZEA works 24/7, never misses a follow-up, and handles unlimited leads simultaneously. One recovered deal pays for 12 months."
   },
   {
-    "question": "zea crm section 396",
-    "answer": "$3,000/year feels like a lot"
-  },
-  {
-    "question": "zea crm section 397",
+    "question": "break it down: $19.96/day. if zea books even one extra appointment per month, th",
+    "keywords": [
+      "Break",
+      "it",
+      "down:",
+      "$19.96/day.",
+      "If"
+    ],
     "answer": "Break it down: $19.96/day. If ZEA books even one extra appointment per month, the ROI is immediate. We also have the $499 limited plan to start smaller with a lower commitment."
   },
   {
-    "question": "zea crm section 398",
-    "answer": "We need to see it working before committing"
-  },
-  {
-    "question": "zea crm section 399",
+    "question": "absolutely — we encourage that. we offer a 15-day crm trial, and we can build 1–",
+    "keywords": [
+      "Absolutely",
+      "—",
+      "we",
+      "encourage",
+      "that."
+    ],
     "answer": "Absolutely — we encourage that. We offer a 15-day CRM trial, and we can build 1–2 live proof-of-concept workflows for 10–15 days. We also have existing clients happy to provide references."
   },
   {
-    "question": "zea crm section 400",
-    "answer": "We're too deep into our current platform to switch"
-  },
-  {
-    "question": "zea crm section 401",
+    "question": "you don't need to switch. zea can run as a parallel automation layer — takes dat",
+    "keywords": [
+      "You",
+      "don't",
+      "need",
+      "to",
+      "switch."
+    ],
     "answer": "You don't need to switch. ZEA can run as a parallel automation layer — takes data from your existing system, processes it through our AI workflows, and pushes results back. Your team keeps using what they know."
   },
   {
-    "question": "zea crm section 402",
-    "answer": "AI might give wrong answers to our clients"
-  },
-  {
-    "question": "zea crm section 403",
+    "question": "zea uses chatgpt-4 — the world's most tested ai. it only answers from your appro",
+    "keywords": [
+      "ZEA",
+      "uses",
+      "ChatGPT-4",
+      "—",
+      "the"
+    ],
     "answer": "ZEA uses ChatGPT-4 — the world's most tested AI. It only answers from your approved knowledge base. If it cannot answer a question, it routes to a human immediately and never guesses. All AI responses are logged for your review."
   },
   {
-    "question": "zea crm section 404",
-    "answer": "I can build my own AI agent for less"
-  },
-  {
-    "question": "zea crm section 405",
+    "question": "a standalone chatbot is possible, but zea is a complete 13-stage workflow automa",
+    "keywords": [
+      "A",
+      "standalone",
+      "chatbot",
+      "is",
+      "possible,"
+    ],
     "answer": "A standalone chatbot is possible, but ZEA is a complete 13-stage workflow automation system: lead capture, nurturing, scheduling, proposals, objection handling, job tracking, reviews, and long-term retention. Building that from scratch would take months and cost far more."
   },
   {
-    "question": "zea crm section 406",
-    "answer": "Why aren't you using AI for your own outreach?"
-  },
-  {
-    "question": "zea crm section 407",
+    "question": "we do. ai handles our lead research, qualification, and campaign management. we ",
+    "keywords": [
+      "We",
+      "do.",
+      "AI",
+      "handles",
+      "our"
+    ],
     "answer": "We do. AI handles our lead research, qualification, and campaign management. We use the same system for our own outreach — UK and international rollout is happening now."
   },
   {
-    "question": "zea crm section 408",
-    "answer": "How do you prevent my competitors getting the same advantage?"
-  },
-  {
-    "question": "zea crm section 409",
+    "question": "each client gets a separate sub-account with isolated data and brand voice. we a",
+    "keywords": [
+      "Each",
+      "client",
+      "gets",
+      "a",
+      "separate"
+    ],
     "answer": "Each client gets a separate sub-account with isolated data and brand voice. We also operate by territory — we do not onboard direct competitors in the same geographic area."
   },
   {
-    "question": "zea crm section 410",
-    "answer": "We want leads generated, not just managed"
-  },
-  {
-    "question": "zea crm section 411",
+    "question": "zea manages and nurtures your existing leads and we offer a separate lead genera",
+    "keywords": [
+      "ZEA",
+      "manages",
+      "and",
+      "nurtures",
+      "your"
+    ],
     "answer": "ZEA manages and nurtures your existing leads AND we offer a separate lead generation service: AI-powered email and LinkedIn outreach that identifies prospects in your target market and delivers qualified leads to your pipeline."
   },
   {
-    "question": "zea crm section 412",
-    "answer": "Clients prefer the personal touch — they don't want AI"
-  },
-  {
-    "question": "zea crm section 413",
+    "question": "zea never replaces human relationships. it handles repetitive, time-consuming wo",
+    "keywords": [
+      "ZEA",
+      "never",
+      "replaces",
+      "human",
+      "relationships."
+    ],
     "answer": "ZEA never replaces human relationships. It handles repetitive, time-consuming work (initial responses, reminders, follow-ups) so your team has MORE time for high-value personal interactions. Clients only know it's AI if you tell them."
   },
   {
-    "question": "zea crm section 414",
-    "answer": "Compliance risk in UAE — what if AI causes a problem?"
-  },
-  {
-    "question": "zea crm section 415",
+    "question": "we use chatgpt-4 only — not grok or any model with compliance concerns. the ai i",
+    "keywords": [
+      "We",
+      "use",
+      "ChatGPT-4",
+      "only",
+      "—"
+    ],
     "answer": "We use ChatGPT-4 only — not Grok or any model with compliance concerns. The AI is trained strictly on your approved content and never speculates. Any unanswered question triggers an immediate human handoff. All responses are logged."
   },
   {
-    "question": "zea crm section 416",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 417",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 418",
-    "answer": "8. Ideal Customer Profile (ICP)"
-  },
-  {
-    "question": "zea crm section 419",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 420",
-    "answer": "8.1  Best Fit Customer"
-  },
-  {
-    "question": "zea crm section 421",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 422",
-    "answer": "Criteria"
-  },
-  {
-    "question": "zea crm section 423",
-    "answer": "Description"
-  },
-  {
-    "question": "zea crm section 424",
-    "answer": "Team size"
-  },
-  {
-    "question": "zea crm section 425",
-    "answer": "3–15 people — large enough to have lead volume; small enough that manual follow-up is a real pain"
-  },
-  {
-    "question": "zea crm section 426",
-    "answer": "Project value"
-  },
-  {
-    "question": "zea crm section 427",
-    "answer": "$10,000–$100,000+ per project (smart home, cinema room, AV integration, security systems)"
-  },
-  {
-    "question": "zea crm section 428",
-    "answer": "Sales cycle"
-  },
-  {
-    "question": "zea crm section 429",
-    "answer": "2 weeks – 6 months — ideal for automated long-term nurturing"
-  },
-  {
-    "question": "zea crm section 430",
-    "answer": "Current state"
-  },
-  {
-    "question": "zea crm section 431",
-    "answer": "No CRM, or light CRM without automation; doing follow-ups manually in spreadsheets"
-  },
-  {
-    "question": "zea crm section 432",
-    "answer": "Pain point"
-  },
-  {
-    "question": "zea crm section 433",
-    "answer": "Leads going cold, owner doing all the sales, no consistent follow-up process"
-  },
-  {
-    "question": "zea crm section 434",
-    "answer": "Markets"
-  },
-  {
-    "question": "zea crm section 435",
-    "answer": "USA, UAE, UK, India, Nigeria, and other English/Arabic-speaking markets"
-  },
-  {
-    "question": "zea crm section 436",
-    "answer": "Business type"
-  },
-  {
-    "question": "zea crm section 437",
-    "answer": "Smart home integrators, AV companies, security system providers, home automation contractors, HVAC"
-  },
-  {
-    "question": "zea crm section 438",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 439",
-    "answer": "8.2  Poor Fit"
-  },
-  {
-    "question": "zea crm section 440",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 441",
-    "answer": "Situation"
-  },
-  {
-    "question": "zea crm section 442",
-    "answer": "Why & What To Do"
-  },
-  {
-    "question": "zea crm section 443",
-    "answer": "Solo operator (1–2 people)"
-  },
-  {
-    "question": "zea crm section 444",
-    "answer": "Limited lead volume — ROI is harder. Offer CRM-only plan at $97–$249/month to start"
-  },
-  {
-    "question": "zea crm section 445",
-    "answer": "Deep CRM investment (2+ years)"
-  },
-  {
-    "question": "zea crm section 446",
-    "answer": "Migration pain is high. Position ZEA as add-on automation layer, not full replacement"
-  },
-  {
-    "question": "zea crm section 447",
-    "answer": "Pure product trading (not service)"
-  },
-  {
-    "question": "zea crm section 448",
-    "answer": "Works best for consultative, service-based sales with a longer engagement cycle"
-  },
-  {
-    "question": "zea crm section 449",
-    "answer": "Wants leads only, not management"
-  },
-  {
-    "question": "zea crm section 450",
-    "answer": "Clarify scope: ZEA manages and nurtures leads. Lead generation is a separate service"
-  },
-  {
-    "question": "zea crm section 451",
-    "answer": "Extreme price sensitivity"
-  },
-  {
-    "question": "zea crm section 452",
+    "question": "if genuinely unworkable, offer limited plan or revisit after demonstrating roi w",
+    "keywords": [
+      "If",
+      "genuinely",
+      "unworkable,",
+      "offer",
+      "limited"
+    ],
     "answer": "If genuinely unworkable, offer limited plan or revisit after demonstrating ROI with a small proof of concept"
   },
   {
-    "question": "zea crm section 453",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 454",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 455",
-    "answer": "9. Frequently Asked Questions"
-  },
-  {
-    "question": "zea crm section 456",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 457",
-    "answer": "Designed for AI agent training, website chatbot, sales team reference, and client onboarding."
-  },
-  {
-    "question": "zea crm section 458",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 459",
-    "answer": "▸  Q: What is ZEA CRM?"
-  },
-  {
-    "question": "zea crm section 460",
+    "question": "zea crm is an ai-powered workflow automation and crm platform built specifically",
+    "keywords": [
+      "ZEA",
+      "CRM",
+      "is",
+      "an",
+      "AI-powered"
+    ],
     "answer": "ZEA CRM is an AI-powered workflow automation and CRM platform built specifically for smart home automation and AV integration businesses. It automates the entire sales process — from first lead inquiry to post-job review — using AI to handle follow-ups, appointment scheduling, and customer service across email, SMS, WhatsApp, and voice calls."
   },
   {
-    "question": "zea crm section 461",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 462",
-    "answer": "▸  Q: Do I need to replace my existing CRM?"
-  },
-  {
-    "question": "zea crm section 463",
+    "question": "no. zea integrates with your existing crm via api — including zoho, bitrix24, od",
+    "keywords": [
+      "No.",
+      "ZEA",
+      "integrates",
+      "with",
+      "your"
+    ],
     "answer": "No. ZEA integrates with your existing CRM via API — including Zoho, Bitrix24, Odoo, and others. Your data stays in place, your team keeps using what they know, and ZEA adds intelligent automation on top."
   },
   {
-    "question": "zea crm section 464",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 465",
-    "answer": "▸  Q: How quickly does the AI respond to a new lead?"
-  },
-  {
-    "question": "zea crm section 466",
+    "question": "within 5 minutes of a lead being submitted — any time of day or night, including",
+    "keywords": [
+      "Within",
+      "5",
+      "minutes",
+      "of",
+      "a"
+    ],
     "answer": "Within 5 minutes of a lead being submitted — any time of day or night, including weekends and public holidays. The AI sends an initial personalised message and begins the follow-up sequence automatically."
   },
   {
-    "question": "zea crm section 467",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 468",
-    "answer": "▸  Q: What AI does ZEA use?"
-  },
-  {
-    "question": "zea crm section 469",
+    "question": "zea uses chatgpt-4 by openai. we do not use grok or other models. chatgpt-4 is a",
+    "keywords": [
+      "ZEA",
+      "uses",
+      "ChatGPT-4",
+      "by",
+      "OpenAI."
+    ],
     "answer": "ZEA uses ChatGPT-4 by OpenAI. We do not use Grok or other models. ChatGPT-4 is approved for deployment in all markets including the UAE and Middle East."
   },
   {
-    "question": "zea crm section 470",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 471",
-    "answer": "▸  Q: Can the AI answer and make phone calls?"
-  },
-  {
-    "question": "zea crm section 472",
+    "question": "yes — both inbound and outbound. the inbound ai answers missed calls via twilio,",
+    "keywords": [
+      "Yes",
+      "—",
+      "both",
+      "inbound",
+      "and"
+    ],
     "answer": "Yes — both inbound and outbound. The inbound AI answers missed calls via Twilio, introduces itself as your AI assistant, answers from your knowledge base, and books appointments. The outbound AI proactively calls leads to schedule appointments. It can serve as your main number for after-hours and weekend coverage."
   },
   {
-    "question": "zea crm section 473",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 474",
-    "answer": "▸  Q: What if the AI doesn't know the answer?"
-  },
-  {
-    "question": "zea crm section 475",
+    "question": "the ai will never guess or give irrelevant answers. it tells the client that a t",
+    "keywords": [
+      "The",
+      "AI",
+      "will",
+      "never",
+      "guess"
+    ],
     "answer": "The AI will never guess or give irrelevant answers. It tells the client that a team member will follow up, then immediately notifies your team with the unanswered question. That question is then added to the knowledge base for future training."
   },
   {
-    "question": "zea crm section 476",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 477",
-    "answer": "▸  Q: How does the review system work?"
-  },
-  {
-    "question": "zea crm section 478",
+    "question": "after job completion, the ai sends a review request to your client. if they give",
+    "keywords": [
+      "After",
+      "job",
+      "completion,",
+      "the",
+      "AI"
+    ],
     "answer": "After job completion, the AI sends a review request to your client. If they give 5 stars, it is automatically posted to your Google Business page. If they give less than 5 stars, the review is held in your internal dashboard so you can address the issue before it goes public."
   },
   {
-    "question": "zea crm section 479",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 480",
-    "answer": "▸  Q: Can ZEA send WhatsApp messages?"
-  },
-  {
-    "question": "zea crm section 481",
+    "question": "yes. zea integrates with whatsapp business api. it sends automated follow-ups, a",
+    "keywords": [
+      "Yes.",
+      "ZEA",
+      "integrates",
+      "with",
+      "WhatsApp"
+    ],
     "answer": "Yes. ZEA integrates with WhatsApp Business API. It sends automated follow-ups, appointment reminders, proposals, and payment links via WhatsApp — and captures all inbound WhatsApp replies into the client's CRM record."
   },
   {
-    "question": "zea crm section 482",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 483",
-    "answer": "▸  Q: Is there a free trial?"
-  },
-  {
-    "question": "zea crm section 484",
+    "question": "yes — the crm platform has a 15-day free trial. workflow automations are not inc",
+    "keywords": [
+      "Yes",
+      "—",
+      "the",
+      "CRM",
+      "platform"
+    ],
     "answer": "Yes — the CRM platform has a 15-day free trial. Workflow automations are not included in the trial as they require our development team to build. We can also set up 1–2 live proof-of-concept workflows for a 10–15 day test run before full commitment."
   },
   {
-    "question": "zea crm section 485",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 486",
-    "answer": "▸  Q: How long does onboarding take?"
-  },
-  {
-    "question": "zea crm section 487",
+    "question": "typically 1–2 weeks for standard setup. this includes account configuration, crm",
+    "keywords": [
+      "Typically",
+      "1–2",
+      "weeks",
+      "for",
+      "standard"
+    ],
     "answer": "Typically 1–2 weeks for standard setup. This includes account configuration, CRM setup, building 5 core automated workflows, AI agent training, and team onboarding. Complex setups with third-party integrations may take 2–3 weeks."
   },
   {
-    "question": "zea crm section 488",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 489",
-    "answer": "▸  Q: Who builds and manages the workflows?"
-  },
-  {
-    "question": "zea crm section 490",
+    "question": "zea builds all workflows for you. you tell us your process, your q&as, and your ",
+    "keywords": [
+      "ZEA",
+      "builds",
+      "all",
+      "workflows",
+      "for"
+    ],
     "answer": "ZEA builds all workflows for you. You tell us your process, your Q&As, and your preferences — we configure everything. You can request changes at any time and we implement them. Most clients prefer this so they can focus on running their business, not managing software."
   },
   {
-    "question": "zea crm section 491",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 492",
-    "answer": "▸  Q: What happens to a lead that says 'not interested'?"
-  },
-  {
-    "question": "zea crm section 493",
+    "question": "they move to the annual funnel — a long-term nurturing sequence that sends one p",
+    "keywords": [
+      "They",
+      "move",
+      "to",
+      "the",
+      "Annual"
+    ],
     "answer": "They move to the Annual Funnel — a long-term nurturing sequence that sends one personalised email and one SMS per month, indefinitely. The moment they respond positively, they are automatically re-routed back to the Appointment Funnel. Many clients come back 6–12 months later through this funnel."
   },
   {
-    "question": "zea crm section 494",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 495",
-    "answer": "▸  Q: Can I use this for existing clients, not just new leads?"
-  },
-  {
-    "question": "zea crm section 496",
+    "question": "absolutely. zea has dedicated post-sale funnels: annual maintenance contract ren",
+    "keywords": [
+      "Absolutely.",
+      "ZEA",
+      "has",
+      "dedicated",
+      "post-sale"
+    ],
     "answer": "Absolutely. ZEA has dedicated post-sale funnels: Annual Maintenance Contract renewal reminders, post-care check-ins at 30/60/90 days, review and referral funnels, and the Weather Funnel for storm alerts. These generate repeat business and referrals from your existing customer base."
   },
   {
-    "question": "zea crm section 497",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 498",
-    "answer": "▸  Q: Is my client data secure?"
-  },
-  {
-    "question": "zea crm section 499",
+    "question": "yes. each client gets a completely separate sub-account with fully isolated data",
+    "keywords": [
+      "Yes.",
+      "Each",
+      "client",
+      "gets",
+      "a"
+    ],
     "answer": "Yes. Each client gets a completely separate sub-account with fully isolated data. We do not share data between clients. Client workflows, contact data, and business intelligence are never shared with competitors or third parties."
   },
   {
-    "question": "zea crm section 500",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 501",
-    "answer": "▸  Q: What is the pricing?"
-  },
-  {
-    "question": "zea crm section 502",
+    "question": "full funnels plan: $599/month. limited funnels plan: $499/month. crm only: from ",
+    "keywords": [
+      "Full",
+      "Funnels",
+      "Plan:",
+      "$599/month.",
+      "Limited"
+    ],
     "answer": "Full Funnels Plan: $599/month. Limited Funnels Plan: $499/month. CRM Only: from $97/month. One-time setup fee: $999 (standard) or $1,499 (with third-party CRM integration). No annual maintenance fees. Website chatbot included free with any full plan."
   },
   {
-    "question": "zea crm section 503",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 504",
-    "answer": "▸  Q: What support is available after onboarding?"
-  },
-  {
-    "question": "zea crm section 505",
+    "question": "our team is available 18–20 hours per day across our india and florida offices. ",
+    "keywords": [
+      "Our",
+      "team",
+      "is",
+      "available",
+      "18–20"
+    ],
     "answer": "Our team is available 18–20 hours per day across our India and Florida offices. All queries are addressed within 24 hours via email, WhatsApp, or LinkedIn. Workflow changes can be requested at any time."
   },
   {
-    "question": "zea crm section 506",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 507",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 508",
-    "answer": "10. Support & After-Sales"
-  },
-  {
-    "question": "zea crm section 509",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 510",
-    "answer": "Topic"
-  },
-  {
-    "question": "zea crm section 511",
-    "answer": "Details"
-  },
-  {
-    "question": "zea crm section 512",
-    "answer": "Support hours"
-  },
-  {
-    "question": "zea crm section 513",
-    "answer": "18–20 hours per day across India (Salem, Bangalore) and Florida offices"
-  },
-  {
-    "question": "zea crm section 514",
-    "answer": "Response time"
-  },
-  {
-    "question": "zea crm section 515",
-    "answer": "All queries addressed within 24 hours"
-  },
-  {
-    "question": "zea crm section 516",
-    "answer": "Contact methods"
-  },
-  {
-    "question": "zea crm section 517",
-    "answer": "LinkedIn, WhatsApp, or email — all monitored by the support team"
-  },
-  {
-    "question": "zea crm section 518",
-    "answer": "Workflow changes"
-  },
-  {
-    "question": "zea crm section 519",
-    "answer": "Clients request changes at any time — ZEA implements; minimal additional charges"
-  },
-  {
-    "question": "zea crm section 520",
-    "answer": "AI retraining"
-  },
-  {
-    "question": "zea crm section 521",
-    "answer": "New Q&As added to the knowledge base at any time — no full rebuild required"
-  },
-  {
-    "question": "zea crm section 522",
-    "answer": "Bug resolution"
-  },
-  {
-    "question": "zea crm section 523",
-    "answer": "Platform issues escalated immediately; client notified with resolution timeline"
-  },
-  {
-    "question": "zea crm section 524",
-    "answer": "Onboarding"
-  },
-  {
-    "question": "zea crm section 525",
-    "answer": "Full team onboarding included in setup fee — knowledge transfer and training sessions provided"
-  },
-  {
-    "question": "zea crm section 526",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 527",
-    "answer": "FOR SALES TEAM"
-  },
-  {
-    "question": "zea crm section 528",
+    "question": "when addressing concerns from uae or us clients about india-based vendor availab",
+    "keywords": [
+      "When",
+      "addressing",
+      "concerns",
+      "from",
+      "UAE"
+    ],
     "answer": "When addressing concerns from UAE or US clients about India-based vendor availability: lead with 18–20 hour daily coverage across two time zones. This directly addresses the most common hesitation and is a key trust-builder."
-  },
-  {
-    "question": "zea crm section 529",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 530",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 531",
-    "answer": ""
-  },
-  {
-    "question": "zea crm section 532",
-    "answer": "ZEA CRM  |  Smart Home Automation Engine  |  Master Knowledge Base"
-  },
-  {
-    "question": "zea crm section 533",
-    "answer": "Confidential — For Internal Use, Sales Team & AI Agent Training"
-  },
-  {
-    "question": "zea crm section 534",
-    "answer": ""
   }
 ]

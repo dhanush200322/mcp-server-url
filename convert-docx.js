@@ -3,33 +3,40 @@ import mammoth from "mammoth";
 
 async function convertDocx() {
 
-  try {
+  const result = await mammoth.extractRawText({
+    path: "./ZEA_CRM_Knowledge_Base (1).docx"
+  });
 
-    const result = await mammoth.extractRawText({
-      path: "./ZEA_CRM_Knowledge_Base (1).docx"
+  const text = result.value;
+
+  // split by numbered headings
+  const sections = text.split(/\n\d+\.\s+/);
+
+  const knowledge = [];
+
+  sections.forEach(section => {
+
+    const clean = section.trim();
+
+    if (clean.length < 100) return;
+
+    const title = clean.split("\n")[0].toLowerCase();
+
+    knowledge.push({
+      category: title,
+      question: "tell me about " + title,
+      keywords: title.split(" ").slice(0,4),
+      answer: clean
     });
 
-    const text = result.value;
+  });
 
-    const sections = text.split("\n\n");
+  fs.writeFileSync(
+    "./knowledge/knowledge.json",
+    JSON.stringify(knowledge, null, 2)
+  );
 
-    const knowledge = sections.map((section, index) => ({
-      question: "zea crm section " + (index + 1),
-      answer: section.trim()
-    }));
-
-    fs.writeFileSync(
-      "./knowledge/knowledge.json",
-      JSON.stringify(knowledge, null, 2)
-    );
-
-    console.log("✅ DOCX converted to knowledge.json");
-
-  } catch (error) {
-
-    console.error("❌ Error converting DOCX:", error);
-
-  }
+  console.log("✅ Knowledge base generated from DOCX");
 
 }
 

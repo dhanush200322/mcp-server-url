@@ -2,6 +2,8 @@ import express from "express";
 import dotenv from "dotenv";
 import Groq from "groq-sdk";
 import fs from "fs";
+import cosineSimilarity from "compute-cosine-similarity";
+import { pipeline } from "@xenova/transformers";
 
 dotenv.config();
 
@@ -9,82 +11,71 @@ const app = express();
 app.use(express.json());
 
 /* ---------------------------
-   GROQ AI SETUP
+   GROQ SETUP
 ----------------------------*/
 
 const groq = new Groq({
-  apiKey: process.env.GROQ_API_KEY,
+  apiKey: process.env.GROQ_API_KEY
 });
 
 /* ---------------------------
-   LOAD LOCAL KNOWLEDGE
+   LOAD VECTOR DATABASE
 ----------------------------*/
 
-let knowledge = [];
+const vectorDB = JSON.parse(
+  fs.readFileSync("./knowledge/vector-db.json", "utf8")
+);
 
-try {
-
-  knowledge = JSON.parse(
-    fs.readFileSync("./knowledge/knowledge.json", "utf8")
-  );
-
-  console.log("✅ Local knowledge loaded");
-
-} catch (err) {
-
-  console.error("❌ Error loading local knowledge:", err);
-
-}
+console.log("✅ Vector DB loaded:", vectorDB.length);
 
 /* ---------------------------
-   FETCH GHL KNOWLEDGE BASE
+   LOAD EMBEDDING MODEL
 ----------------------------*/
 
-async function getGHLKnowledge() {
+const embedder = await pipeline(
+  "feature-extraction",
+  "Xenova/all-MiniLM-L6-v2"
+);
 
-  try {
+console.log("✅ Embedding model loaded");
 
-    const locationId = "tob1bWz89F7E839GM3el";
+/* ---------------------------
+   VECTOR SEARCH FUNCTION
+----------------------------*/
 
-    const response = await fetch(
-      `https://services.leadconnectorhq.com/knowledge-bases?locationId=${locationId}`,
-      {
-        method: "GET",
-        headers: {
-          Authorization: `Bearer ${process.env.GHL_API_KEY}`,
-          Version: "2021-07-28",
-          "Content-Type": "application/json",
-        },
-      }
-    );
+async function searchKnowledge(question) {
 
-    if (!response.ok) {
+  const queryEmbedding = await embedder(question, {
+    pooling: "mean",
+    normalize: true
+  });
 
-      console.log("⚠ GHL API returned error");
-      return "";
+  const queryVector = Array.from(queryEmbedding.data);
 
-    }
+  let scores = [];
 
-    const data = await response.json();
+  for (let item of vectorDB) {
 
-    if (data && data.knowledgeBases) {
+    const score = cosineSimilarity(queryVector, item.embedding);
 
-      const ghlText = data.knowledgeBases
-        .map((kb) => kb.name + " " + kb.description)
-        .join("\n");
-
-      return ghlText;
-
-    }
-
-    return "";
-
-  } catch (error) {
-
-    console.error("❌ Error fetching GHL knowledge:", error);
-    return "";
+    scores.push({
+      text: item.text,
+      score: score
+    });
 
   }
+
+  // sort by similarity score
+  scores.sort((a, b) => b.score - a.score);
+
+  const topChunks = scores.slice(0, 3);
+
+  console.log("🔎 Top similarity scores:");
+  topChunks.forEach((c, i) => {
+    console.log(`Chunk ${i + 1}:`, c.score);
+  });
+
+  return topChunks.map(c => c.text).join("\n\n");
 
 }
 
@@ -96,53 +87,24 @@ app.post("/chat", async (req, res) => {
 
   try {
 
-    const userMessage = (req.body.message || "").toLowerCase();
+    const userMessage = req.body.message;
 
     if (!userMessage) {
-
       return res.json({
         reply: "Please ask a question."
       });
-
     }
 
     console.log("\n--------------------------------");
     console.log("👤 User Question:", userMessage);
 
-    /* ---------------------------
-       SEARCH LOCAL KNOWLEDGE
-    ----------------------------*/
+    const context = await searchKnowledge(userMessage);
 
-    const match = knowledge.find((item) =>
-      userMessage.includes(item.question.toLowerCase()) ||
-      item.question.toLowerCase().includes(userMessage)
-    );
-
-    if (match) {
-
-      console.log("✅ RESPONSE FROM LOCAL KNOWLEDGE BASE");
-      console.log("📄 KB Question:", match.question);
-      console.log("📄 KB Answer:", match.answer);
-
-      return res.json({
-        reply: match.answer,
-        source: "LOCAL_KB"
-      });
-
-    }
-
-    console.log("⚠ No match found in Local KB → Using AI");
+    console.log("📚 Retrieved Knowledge Chunks:\n");
+    console.log(context.substring(0, 300), "...");
 
     /* ---------------------------
-       FETCH GHL KNOWLEDGE
-    ----------------------------*/
-
-    const ghlContext = await getGHLKnowledge();
-
-    console.log("📚 GHL Knowledge Length:", ghlContext.length);
-
-    /* ---------------------------
-       ASK GROQ AI
+       GROQ AI RESPONSE
     ----------------------------*/
 
     const completion = await groq.chat.completions.create({
@@ -153,13 +115,13 @@ app.post("/chat", async (req, res) => {
         {
           role: "system",
           content:
-            "You are a helpful assistant. Answer ONLY using the provided knowledge base."
+            "You are an AI assistant. Answer ONLY using the provided knowledge base. If the answer is not present, say you don't know."
         },
         {
           role: "user",
           content: `
-GHL Knowledge:
-${ghlContext}
+Knowledge Base:
+${context}
 
 Question:
 ${userMessage}
@@ -171,13 +133,9 @@ ${userMessage}
 
     const reply = completion.choices[0].message.content;
 
-    console.log("🤖 RESPONSE FROM GROQ AI");
     console.log("🤖 AI Answer:", reply);
 
-    res.json({
-      reply: reply,
-      source: "AI"
-    });
+    res.json({ reply });
 
   } catch (error) {
 
@@ -199,6 +157,6 @@ const PORT = process.env.PORT || 3000;
 
 app.listen(PORT, () => {
 
-  console.log(`🚀 MCP Server running on port ${PORT}`);
+  console.log(`🚀 MCP AI Server running on port ${PORT}`);
 
 });

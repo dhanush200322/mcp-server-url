@@ -1,0 +1,1066 @@
+ZEA CRM
+
+Smart Home Automation Engine
+
+────────────────────────────────
+
+MASTER KNOWLEDGE BASE
+
+Sales Team  |  AI Agent Training  |  Internal Onboarding
+
+
+
+1. Company Overview
+
+
+
+ZEA CRM is an AI-powered workflow automation platform purpose-built for the home automation and AV integration industry. The company started as a specialist database and list-building provider before evolving into a full-service CRM and intelligent automation technology company.
+
+
+
+Attribute
+
+Details
+
+Full Product Name
+
+ZEA CRM — Smart Home Automation Engine
+
+Founded
+
+10+ years of experience; CRM product launched 2023–2024
+
+Headquarters
+
+Salem, Tamil Nadu, South India
+
+Sales Office
+
+Florida, USA (East Coast)
+
+Expansion
+
+UAE office planned
+
+AI Model
+
+ChatGPT-4 (OpenAI) — approved for all markets including UAE
+
+Voice AI
+
+11 Labs — voice cloning & AI call handling
+
+Telephony
+
+Twilio — AI inbound and outbound calls
+
+Workflow Engine
+
+Native builder + self-hosted n8n (no extra cost to client)
+
+Target Industry
+
+Smart Home Automation, AV Integration, Home Security, HVAC
+
+
+
+IMPORTANT
+
+ZEA CRM uses ChatGPT-4 exclusively. Grok is NOT used in any deployment — it is explicitly excluded due to cultural and compliance sensitivity concerns, especially in UAE and Middle East markets.
+
+
+
+
+
+2. What Is ZEA CRM?
+
+
+
+ZEA CRM is an all-in-one platform combining a traditional CRM with AI-powered workflow automation. It replaces the need for multiple disconnected tools — MailChimp, Constant Contact, Zapier, separate scheduling apps, and call centres — by consolidating everything into a single intelligent platform.
+
+
+
+Core Value Proposition
+
+
+
+ZEA CRM's #1 job is to ensure no lead is ever lost or forgotten. It achieves this through:
+
+
+
+Immediate AI response to every new inquiry — within 5 minutes, 24/7
+
+Multi-channel automated follow-up: email, SMS, WhatsApp, voice call, social DM
+
+Intelligent nurturing through the entire sales lifecycle — from first touch to post-job review
+
+Automated appointment scheduling synced to live calendar availability
+
+Inbound voice AI: answers calls when staff are unavailable — zero missed leads
+
+Outbound voice AI: proactively calls leads to schedule appointments
+
+After-hours and weekend AI coverage — eliminates the need for a call centre
+
+Machine learning from conversation history to personalise every message
+
+Works standalone OR integrates with any existing CRM
+
+
+
+KEY DIFFERENTIATOR
+
+Unlike generic CRMs, ZEA is pre-built and pre-configured specifically for home automation and AV integration businesses. The workflows were designed with actual industry practitioners — not generic templates.
+
+
+
+
+
+3. Platform Features
+
+
+
+3.1  Contact & Lead Management
+
+Unified contact record — all emails, SMS, WhatsApp, and calls stored in one place
+
+AI data enrichment — if lead submits only name + email, AI appends phone, LinkedIn profile, and social handles automatically
+
+Lead source tagging — contacts tagged by source: Google Ads, Facebook, Instagram, website form, missed call, LinkedIn, referral, WhatsApp group
+
+Round-robin lead assignment — distribute leads by territory, revenue bracket, or quota (50–60 leads/person/month max before overflow)
+
+Contact ID tracking — AI references each lead's contact ID and full appointment history for rescheduling and sending reminders
+
+Manual override — any AI function can be switched OFF at any stage
+
+
+
+3.2  Multi-Channel Communication
+
+
+
+Channel
+
+Capability
+
+Email (Gmail / Outlook)
+
+Bidirectional sync — send from CRM or Outlook, all messages captured in both. Drip campaigns: 150–300 emails/day with rotation and warming to protect domain health
+
+SMS
+
+Automated message sequences with customisable timing and content
+
+WhatsApp Business
+
+Outbound automated messages and inbound capture — all conversations logged in CRM
+
+Inbound Voice AI
+
+Answers missed calls after configurable rings. Introduces as AI assistant. Answers from knowledge base, escalates to human when needed. Can serve as after-hours/weekend number
+
+Outbound Voice AI
+
+Proactively calls leads to schedule appointments. Can eliminate need for a call centre
+
+Website Chatbot
+
+AI chatbot deployed on client website — collects requirements, gives estimates, books appointments
+
+Instagram DMs
+
+Lead capture and automated responses via AI agent
+
+Facebook Messenger
+
+Lead capture and follow-up flows
+
+LinkedIn
+
+Outreach automation supported; Sales Navigator compatible
+
+
+
+3.3  AI Agents
+
+▸  Voice Agent (Inbound & Outbound)
+
+Inbound: connects to business phone via Twilio — picks up after configurable rings
+
+Outbound: proactively dials leads to schedule appointments and follow up
+
+Introduces itself: 'Hi, this is [Client Name]'s AI assistant, how can I help you?'
+
+Can serve as main number for after-hours and weekend coverage
+
+Answers questions from pre-uploaded knowledge base Q&A documents
+
+Voice can be cloned using 11 Labs to match the client's own voice
+
+References contact ID and appointment history — can reschedule and send reminders
+
+Escalates to human when it reaches the limit of its knowledge base
+
+
+
+▸  Conversation Agent (Chat / Chatbot)
+
+Deployed on website chatbot, WhatsApp, or any messaging channel
+
+Fed with Q&A pairs, product documents, service descriptions, and pricing sheets
+
+Powered by ChatGPT-4 — contextual answers, not copy-paste templates
+
+Machine learning — improves from every conversation over time
+
+Generates personalised follow-up messages based on full conversation history and call recordings
+
+If it cannot answer a question, it notifies the team and logs the gap for retraining
+
+
+
+▸  Lead Scoring Agent
+
+Reads the complete conversation chain: email, SMS, WhatsApp, call logs
+
+Scores leads 0–100 based on intent signals, urgency, and full conversation context (not just keywords)
+
+Output example: '90% — high priority, follow up now' / '30% — warm, keep nurturing'
+
+Helps sales teams prioritise who to call first
+
+
+
+3.4  Customisable AI Routing Dashboard
+
+Visual dashboard to configure which AI agent handles which channel or funnel stage
+
+Toggle AI on/off per funnel stage — full human control at every point
+
+Configure routing rules: by lead source, geography, revenue bracket, or team member
+
+Real-time execution logs — see every lead moving through the workflow live
+
+
+
+3.5  Workflow Automation Engine
+
+Node-based visual workflow builder — self-hosted by ZEA (no Zapier subscription required)
+
+ZEA builds and configures all workflows during client onboarding
+
+Clients request changes at any time — ZEA implements them
+
+Execution speed: milliseconds (self-hosted server, not external)
+
+n8n open-source engine used for edge cases — included at no extra cost to client
+
+Connects to any system via webhooks and API
+
+LLM flexibility: can connect ChatGPT, Anthropic Claude, or any LLM within workflows
+
+
+
+3.6  Online Reputation Management
+
+Post-job review request sent automatically after every completed project
+
+5-star review → posted directly to Google Business page automatically
+
+Less than 5 stars → intercepted, stored in internal dashboard only
+
+Team notified: 'Client X gave 3.5 stars — reach out to resolve before it goes public'
+
+Prevents negative reviews going public while creating service recovery opportunities
+
+
+
+3.7  Email Campaigns
+
+Drip campaign engine — NOT a bulk email tool
+
+150–300 emails per day maximum — protects domain health and sender reputation
+
+Multiple email addresses rotated across a domain to avoid spam detection
+
+Monthly newsletters to cold or dormant leads — indefinitely (annual funnel)
+
+All messages personalised by AI — not static templates
+
+
+
+3.8  Social Media & Ad Management
+
+Integrated social media planner: Instagram, Facebook, LinkedIn, Meta Ads
+
+Ad manager: run and manage Google, Meta, and LinkedIn campaigns from one dashboard
+
+All ad leads automatically flow into the CRM — no manual import required
+
+
+
+3.9  Payment Integration
+
+
+
+Gateway
+
+Status
+
+Stripe
+
+Live — available now
+
+Payoneer
+
+Live — available now
+
+PayPal
+
+In development
+
+Client's existing gateway
+
+Integrable via API
+
+Zoho Books
+
+Bidirectional sync — invoices from either platform sync to both
+
+
+
+3.10  Knowledge Base Module
+
+Upload any documents: PDFs, Excel, Q&A documents, product guides, pricing sheets
+
+AI agents learn from the knowledge base and use it to answer questions and draft messages
+
+Editable at any time — update pricing or product specs without rebuilding the AI
+
+Supports URL-based learning — website pages can be linked as a source
+
+
+
+3.11  Project & Job Management
+
+Technician assignment and progress tracking for live projects
+
+Task checklists — automatic client notification when each task is completed
+
+Supports multiple concurrent projects across multiple technicians
+
+Integrates with third-party project management software via API
+
+
+
+
+
+4. Complete Sales Workflow Pipeline
+
+
+
+Based on the ZEA CRM Figma workflow diagram. Leads flow automatically through each stage. AI handles follow-up at every automated stage — humans step in only for high-value personal touchpoints. Each stage can have AI switched ON or OFF independently.
+
+
+
+LEAD SOURCES
+
+Google Ads  •  Facebook  •  Instagram  •  Website Form  •  Missed Call  •  WhatsApp  •  LinkedIn  •  Referral  •  Cold Outreach
+
+#
+
+Pipeline Stage
+
+What Happens
+
+AI Mode
+
+1
+
+New Lead Capture
+
+Lead enters from any source. AI enriches contact data automatically (appends phone, LinkedIn, social handles). Internal notification sent to sales team immediately.
+
+AI ON
+
+2
+
+New Lead Funnel
+
+AI sends initial personalised message within 5 minutes. Follow-ups at 20 min, 1 hour, 10 days, and 30 days if no response. Goal: book an appointment. Messages are contextual — not static templates.
+
+AI ON
+
+3
+
+Follow-Up Funnel
+
+If lead does not respond to the New Lead Funnel: AI sends a further sequence over 30 days with varied touchpoints across email, SMS, and WhatsApp before moving to Annual Funnel.
+
+AI ON
+
+4
+
+Appointment Funnel
+
+AI checks live calendar availability and books appointment automatically. Confirmation sent to both parties. Reminders at 24 hrs, 30 min, and 5 min before meeting to eliminate no-shows.
+
+AI ON
+
+5
+
+Site Visit / Demo
+
+Human-led meeting. AI switched OFF. Salesperson conducts site visit, Zoom, or phone consultation. Notes captured in CRM for AI to reference in future messages.
+
+AI OFF
+
+6
+
+Estimation Funnel
+
+Proposal or estimate prepared (integrates existing estimation tools via API). Once proposal sent, AI re-activates: sends confirmation then follows up every 2–3 days seeking feedback or questions.
+
+AI ON
+
+7
+
+Disposition Funnel
+
+AI handles all incoming objections and questions using pre-loaded Q&A bank. Covers: need more time, comparing quotes, partner needs to approve. Escalates to human at knowledge limit.
+
+AI ON
+
+8
+
+Job In Progress
+
+Technician assigned. Task checklists tracked. Client receives automatic notifications as tasks are completed. Syncs with project management software.
+
+AI ON
+
+9
+
+Review & Referral Funnel
+
+After job completion: AI sends review request link. 5-star → auto-posted to Google. Sub-5-star → flagged internally for recovery. Referral request also sent automatically.
+
+AI ON
+
+10
+
+Annual Maintenance
+
+Automatic AMC renewal reminders sent before contract expiry. Payment link triggered on client approval. Covers all clients with active maintenance agreements.
+
+AI ON
+
+11
+
+Customer / Post-Care
+
+30 / 60 / 90-day automated check-in messages post-delivery. Ensures customer satisfaction and surfaces upsell opportunities for upgrades or additional services.
+
+AI ON
+
+12
+
+Annual / Cold Lead Funnel
+
+Leads that ghosted at any stage move here. Monthly personalised email + SMS sent indefinitely. AI voice calls triggered periodically. If lead responds positively, they re-enter the Appointment Funnel automatically.
+
+AI ON
+
+13
+
+Weather Funnel
+
+For clients in storm-prone regions. Toggle ON when government storm alert issued. System pulls contacts in affected zip codes and sends safety alerts, equipment protection instructions, and post-storm follow-up with AMC upsell.
+
+AI ON
+
+
+
+4.1  'No Response' Path
+
+No response after New Lead Funnel → moves to Follow-Up Funnel (30-day sequence)
+
+No response after Follow-Up Funnel → moves to Annual Funnel (monthly touch, indefinitely)
+
+Prospect says 'not interested' → moves immediately to Annual Funnel
+
+Annual Funnel positive response → automatically re-enters Appointment Funnel
+
+
+
+4.2  AI On/Off Logic
+
+AI is ON by default at every automated stage
+
+AI is OFF during human-interaction stages: site visit, live demo, negotiation
+
+Client or sales team can manually override AI at any stage at any time
+
+When AI hits a question it cannot answer, it alerts the human team and logs the gap for retraining
+
+
+
+
+
+5. Integrations
+
+
+
+ZEA CRM supports the same integration ecosystem as GoHighLevel (GHL), meaning it connects with virtually any tool your clients are already using.
+
+
+
+5.1  CRM & Business Tools
+
+
+
+Tool
+
+Integration
+
+Zoho CRM
+
+Bidirectional API sync — leads, contacts, activities
+
+Zoho Books
+
+Invoice and payment sync — bidirectional
+
+Zoho Bookings
+
+Calendar integration for appointment scheduling
+
+GoHighLevel (GHL)
+
+Full platform compatibility — same integration layer
+
+Bitrix24
+
+API integration
+
+Odoo
+
+API integration
+
+SAP
+
+API integration for enterprise clients
+
+Google Sheets
+
+Webhook-based data push and pull
+
+Dropbox
+
+Document storage integration
+
+Zapier
+
+Webhook compatible (ZEA can replace Zapier entirely — no subscription needed)
+
+n8n
+
+Self-hosted, used internally for complex workflow edge cases — no client cost
+
+
+
+5.2  Communication & Messaging
+
+
+
+Tool
+
+Integration
+
+WhatsApp Business API
+
+Inbound capture + outbound automated messages
+
+Gmail
+
+Bidirectional email sync
+
+Outlook / Microsoft 365
+
+Bidirectional email sync
+
+Microsoft Teams
+
+Meeting scheduling and notification integration
+
+Twilio
+
+AI voice calls — inbound and outbound
+
+11 Labs
+
+Voice cloning for personalised AI voice agent
+
+Facebook Messenger
+
+Lead capture and follow-up
+
+Instagram DMs
+
+Lead capture and follow-up
+
+LinkedIn
+
+Outreach automation; Sales Navigator compatible
+
+
+
+5.3  Marketing & Campaigns
+
+
+
+Tool
+
+Integration
+
+Google Ads
+
+Lead form integration — leads auto-enter CRM
+
+Meta Ads (Facebook/Instagram)
+
+Lead form integration — leads auto-enter CRM
+
+LinkedIn Ads
+
+Campaign management and lead capture
+
+ActiveCampaign
+
+API integration
+
+Brevo (Sendinblue)
+
+API integration for external email campaigns
+
+Constant Contact
+
+Can be replaced by ZEA's built-in drip campaign engine
+
+MailChimp
+
+Can be replaced by ZEA's built-in drip campaign engine
+
+
+
+5.4  Scheduling & Calendar
+
+
+
+Tool
+
+Integration
+
+Google Calendar
+
+Live availability sync
+
+Calendly
+
+Self-booking flow integration
+
+Zoom
+
+Meeting link generation and reminder automation
+
+Microsoft Teams
+
+Meeting scheduling and reminders
+
+Zoho Bookings
+
+Appointment scheduling integration
+
+
+
+
+
+6. Pricing
+
+
+
+6.1  Monthly Subscription Plans
+
+
+
+Plan
+
+Price & Inclusions
+
+Full Funnels Plan
+
+$599 / month — All 13 pipeline stages, full AI agents (voice + chat + scoring), reputation management, social media planner, email campaigns, up to 5 users, all workflow automations
+
+Limited Funnels Plan
+
+$499 / month — Core funnels (lead capture, appointment, follow-up, estimation, disposition), up to 5 users, AI agents, basic automation
+
+CRM Only (Basic)
+
+$97–$249 / month — CRM platform access without full workflow automation. For clients who want to start light
+
+India Market
+
+₹10,000–₹30,000 / month — Equivalent tiered plans for India-based clients
+
+
+
+6.2  One-Time Setup Fee
+
+
+
+Setup Type
+
+Fee
+
+Standard Setup (ZEA CRM native)
+
+$999 — account setup, CRM configuration, 5 automated workflows, AI agent training, team onboarding and knowledge transfer
+
+Advanced Setup (with 3rd-party CRM integration)
+
+$1,499 — all standard setup PLUS API integration with client's existing CRM (Zoho, Bitrix24, Odoo, etc.)
+
+Custom / Complex Setup
+
+$1,499–$3,000 — highly customised workflows, multiple integrations, or enterprise requirements
+
+
+
+PRICING NOTE
+
+Setup fee is one-time only. No annual maintenance fees. Workflow changes after onboarding are handled by ZEA with minimal additional charges. Website chatbot deployment is included FREE when signing up for a full plan.
+
+
+
+6.3  Free Trial
+
+CRM platform: 15-day free trial available
+
+Workflow automations: NOT included in trial (require development resources to build)
+
+Proof of concept option: ZEA can build 1–2 live workflows and run them for 10–15 days before full commitment
+
+
+
+6.4  Pricing Objection Responses
+
+vs. a new hire: a junior salesperson costs $2,000–$4,000/month — ZEA works 24/7 and never misses a follow-up
+
+vs. competitors: GoHighLevel resellers charge $1,500–$2,000/month for similar automation — ZEA is significantly cheaper
+
+Annual framing: $599 × 12 = $7,188/year — less than the value of one recovered deal in most AV businesses
+
+Daily cost: $599/month = $19.96/day — less than most business lunches
+
+
+
+
+
+7. Sales Objections & Responses
+
+
+
+Use this section for sales team training, AI agent Q&A knowledge base, and onboarding preparation.
+
+
+
+Objection
+
+Recommended Response
+
+We already have a CRM (Zoho, Bitrix24, Odoo)
+
+ZEA does not replace your CRM — it adds AI automation on top via API integration. Your existing data, workflows, and team habits stay intact. You get the automation layer without the migration pain.
+
+$499–$599/month is too expensive
+
+Compare it to a full-time salesperson who costs $2,000–$4,000/month and only works 8 hours a day. ZEA works 24/7, never misses a follow-up, and handles unlimited leads simultaneously. One recovered deal pays for 12 months.
+
+$3,000/year feels like a lot
+
+Break it down: $19.96/day. If ZEA books even one extra appointment per month, the ROI is immediate. We also have the $499 limited plan to start smaller with a lower commitment.
+
+We need to see it working before committing
+
+Absolutely — we encourage that. We offer a 15-day CRM trial, and we can build 1–2 live proof-of-concept workflows for 10–15 days. We also have existing clients happy to provide references.
+
+We're too deep into our current platform to switch
+
+You don't need to switch. ZEA can run as a parallel automation layer — takes data from your existing system, processes it through our AI workflows, and pushes results back. Your team keeps using what they know.
+
+AI might give wrong answers to our clients
+
+ZEA uses ChatGPT-4 — the world's most tested AI. It only answers from your approved knowledge base. If it cannot answer a question, it routes to a human immediately and never guesses. All AI responses are logged for your review.
+
+I can build my own AI agent for less
+
+A standalone chatbot is possible, but ZEA is a complete 13-stage workflow automation system: lead capture, nurturing, scheduling, proposals, objection handling, job tracking, reviews, and long-term retention. Building that from scratch would take months and cost far more.
+
+Why aren't you using AI for your own outreach?
+
+We do. AI handles our lead research, qualification, and campaign management. We use the same system for our own outreach — UK and international rollout is happening now.
+
+How do you prevent my competitors getting the same advantage?
+
+Each client gets a separate sub-account with isolated data and brand voice. We also operate by territory — we do not onboard direct competitors in the same geographic area.
+
+We want leads generated, not just managed
+
+ZEA manages and nurtures your existing leads AND we offer a separate lead generation service: AI-powered email and LinkedIn outreach that identifies prospects in your target market and delivers qualified leads to your pipeline.
+
+Clients prefer the personal touch — they don't want AI
+
+ZEA never replaces human relationships. It handles repetitive, time-consuming work (initial responses, reminders, follow-ups) so your team has MORE time for high-value personal interactions. Clients only know it's AI if you tell them.
+
+Compliance risk in UAE — what if AI causes a problem?
+
+We use ChatGPT-4 only — not Grok or any model with compliance concerns. The AI is trained strictly on your approved content and never speculates. Any unanswered question triggers an immediate human handoff. All responses are logged.
+
+
+
+
+
+8. Ideal Customer Profile (ICP)
+
+
+
+8.1  Best Fit Customer
+
+
+
+Criteria
+
+Description
+
+Team size
+
+3–15 people — large enough to have lead volume; small enough that manual follow-up is a real pain
+
+Project value
+
+$10,000–$100,000+ per project (smart home, cinema room, AV integration, security systems)
+
+Sales cycle
+
+2 weeks – 6 months — ideal for automated long-term nurturing
+
+Current state
+
+No CRM, or light CRM without automation; doing follow-ups manually in spreadsheets
+
+Pain point
+
+Leads going cold, owner doing all the sales, no consistent follow-up process
+
+Markets
+
+USA, UAE, UK, India, Nigeria, and other English/Arabic-speaking markets
+
+Business type
+
+Smart home integrators, AV companies, security system providers, home automation contractors, HVAC
+
+
+
+8.2  Poor Fit
+
+
+
+Situation
+
+Why & What To Do
+
+Solo operator (1–2 people)
+
+Limited lead volume — ROI is harder. Offer CRM-only plan at $97–$249/month to start
+
+Deep CRM investment (2+ years)
+
+Migration pain is high. Position ZEA as add-on automation layer, not full replacement
+
+Pure product trading (not service)
+
+Works best for consultative, service-based sales with a longer engagement cycle
+
+Wants leads only, not management
+
+Clarify scope: ZEA manages and nurtures leads. Lead generation is a separate service
+
+Extreme price sensitivity
+
+If genuinely unworkable, offer limited plan or revisit after demonstrating ROI with a small proof of concept
+
+
+
+
+
+9. Frequently Asked Questions
+
+
+
+Designed for AI agent training, website chatbot, sales team reference, and client onboarding.
+
+
+
+▸  Q: What is ZEA CRM?
+
+ZEA CRM is an AI-powered workflow automation and CRM platform built specifically for smart home automation and AV integration businesses. It automates the entire sales process — from first lead inquiry to post-job review — using AI to handle follow-ups, appointment scheduling, and customer service across email, SMS, WhatsApp, and voice calls.
+
+
+
+▸  Q: Do I need to replace my existing CRM?
+
+No. ZEA integrates with your existing CRM via API — including Zoho, Bitrix24, Odoo, and others. Your data stays in place, your team keeps using what they know, and ZEA adds intelligent automation on top.
+
+
+
+▸  Q: How quickly does the AI respond to a new lead?
+
+Within 5 minutes of a lead being submitted — any time of day or night, including weekends and public holidays. The AI sends an initial personalised message and begins the follow-up sequence automatically.
+
+
+
+▸  Q: What AI does ZEA use?
+
+ZEA uses ChatGPT-4 by OpenAI. We do not use Grok or other models. ChatGPT-4 is approved for deployment in all markets including the UAE and Middle East.
+
+
+
+▸  Q: Can the AI answer and make phone calls?
+
+Yes — both inbound and outbound. The inbound AI answers missed calls via Twilio, introduces itself as your AI assistant, answers from your knowledge base, and books appointments. The outbound AI proactively calls leads to schedule appointments. It can serve as your main number for after-hours and weekend coverage.
+
+
+
+▸  Q: What if the AI doesn't know the answer?
+
+The AI will never guess or give irrelevant answers. It tells the client that a team member will follow up, then immediately notifies your team with the unanswered question. That question is then added to the knowledge base for future training.
+
+
+
+▸  Q: How does the review system work?
+
+After job completion, the AI sends a review request to your client. If they give 5 stars, it is automatically posted to your Google Business page. If they give less than 5 stars, the review is held in your internal dashboard so you can address the issue before it goes public.
+
+
+
+▸  Q: Can ZEA send WhatsApp messages?
+
+Yes. ZEA integrates with WhatsApp Business API. It sends automated follow-ups, appointment reminders, proposals, and payment links via WhatsApp — and captures all inbound WhatsApp replies into the client's CRM record.
+
+
+
+▸  Q: Is there a free trial?
+
+Yes — the CRM platform has a 15-day free trial. Workflow automations are not included in the trial as they require our development team to build. We can also set up 1–2 live proof-of-concept workflows for a 10–15 day test run before full commitment.
+
+
+
+▸  Q: How long does onboarding take?
+
+Typically 1–2 weeks for standard setup. This includes account configuration, CRM setup, building 5 core automated workflows, AI agent training, and team onboarding. Complex setups with third-party integrations may take 2–3 weeks.
+
+
+
+▸  Q: Who builds and manages the workflows?
+
+ZEA builds all workflows for you. You tell us your process, your Q&As, and your preferences — we configure everything. You can request changes at any time and we implement them. Most clients prefer this so they can focus on running their business, not managing software.
+
+
+
+▸  Q: What happens to a lead that says 'not interested'?
+
+They move to the Annual Funnel — a long-term nurturing sequence that sends one personalised email and one SMS per month, indefinitely. The moment they respond positively, they are automatically re-routed back to the Appointment Funnel. Many clients come back 6–12 months later through this funnel.
+
+
+
+▸  Q: Can I use this for existing clients, not just new leads?
+
+Absolutely. ZEA has dedicated post-sale funnels: Annual Maintenance Contract renewal reminders, post-care check-ins at 30/60/90 days, review and referral funnels, and the Weather Funnel for storm alerts. These generate repeat business and referrals from your existing customer base.
+
+
+
+▸  Q: Is my client data secure?
+
+Yes. Each client gets a completely separate sub-account with fully isolated data. We do not share data between clients. Client workflows, contact data, and business intelligence are never shared with competitors or third parties.
+
+
+
+▸  Q: What is the pricing?
+
+Full Funnels Plan: $599/month. Limited Funnels Plan: $499/month. CRM Only: from $97/month. One-time setup fee: $999 (standard) or $1,499 (with third-party CRM integration). No annual maintenance fees. Website chatbot included free with any full plan.
+
+
+
+▸  Q: What support is available after onboarding?
+
+Our team is available 18–20 hours per day across our India and Florida offices. All queries are addressed within 24 hours via email, WhatsApp, or LinkedIn. Workflow changes can be requested at any time.
+
+
+
+
+
+10. Support & After-Sales
+
+
+
+Topic
+
+Details
+
+Support hours
+
+18–20 hours per day across India (Salem, Bangalore) and Florida offices
+
+Response time
+
+All queries addressed within 24 hours
+
+Contact methods
+
+LinkedIn, WhatsApp, or email — all monitored by the support team
+
+Workflow changes
+
+Clients request changes at any time — ZEA implements; minimal additional charges
+
+AI retraining
+
+New Q&As added to the knowledge base at any time — no full rebuild required
+
+Bug resolution
+
+Platform issues escalated immediately; client notified with resolution timeline
+
+Onboarding
+
+Full team onboarding included in setup fee — knowledge transfer and training sessions provided
+
+
+
+FOR SALES TEAM
+
+When addressing concerns from UAE or US clients about India-based vendor availability: lead with 18–20 hour daily coverage across two time zones. This directly addresses the most common hesitation and is a key trust-builder.
+
+
+
+
+
+
+
+ZEA CRM  |  Smart Home Automation Engine  |  Master Knowledge Base
+
+Confidential — For Internal Use, Sales Team & AI Agent Training
+
